@@ -10,6 +10,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from collections import defaultdict
 import sys
+import colorsys
 
 csv.field_size_limit(sys.maxsize)
 
@@ -126,7 +127,8 @@ for row in summary:
 
 # Plot
 fig, ax = plt.subplots(figsize=(12, 7))
-colors = plt.cm.viridis(np.linspace(0, 1, len(by_L)))
+hues = np.linspace(0.0, 1.0, len(by_L), endpoint=False)
+colors = [colorsys.hls_to_rgb(h, 0.26, 0.75) for h in hues]
 
 for idx, L in enumerate(sorted(by_L.keys())):
     data = sorted(by_L[L], key=lambda x: x[0])
@@ -136,16 +138,26 @@ for idx, L in enumerate(sorted(by_L.keys())):
     ratios, Us, ses = zip(*data)
     ratios, Us, ses = np.array(ratios), np.array(Us), np.array(ses)
     
-    ax.plot(ratios, Us, 'o-', linewidth=2.5, markersize=8,
-            label=f'L={L}', color=colors[idx], alpha=0.8)
-    ax.fill_between(ratios, Us - ses, Us + ses, alpha=0.15, color=colors[idx])
+    # Add uncertainty ribbons FIRST (so they appear behind)
+    ax.fill_between(ratios, Us - ses, Us + ses, alpha=0.45, color=colors[idx], 
+                    label=f'L={L} (±1σ)')
+    
+    # Add error bars at each point with thin cross markers
+    ax.errorbar(ratios, Us, yerr=ses, fmt='x', color=colors[idx], 
+                elinewidth=2, capsize=5, markersize=9, markeredgewidth=1.5,
+                alpha=0.85, capthick=2)
+    
+    # Then plot thin line on top connecting points
+    ax.plot(ratios, Us, '-', linewidth=1.3, color=colors[idx], alpha=0.7)
 
 ax.set_xlabel('Coupling ratio (Γ)', fontsize=13, fontweight='bold')
 ax.set_ylabel('Binder cumulant U', fontsize=13, fontweight='bold')
-ax.set_title('Binder Crossing Diagram: L=48,32,24,16 (15 log-spaced ratios)', fontsize=14, fontweight='bold')
-ax.legend(fontsize=11, loc='best', framealpha=0.95)
-ax.grid(True, alpha=0.3, linestyle='--')
-ax.axvline(x=1.0, color='red', linestyle=':', linewidth=2, alpha=0.4, label='γ=1.0')
+ax.set_title('Binder Crossing Diagram with Uncertainties: L=48,32,24,16 (15 log-spaced ratios)', 
+             fontsize=14, fontweight='bold')
+ax.legend(fontsize=11, loc='best', framealpha=0.95, title='System size (±1σ errors)')
+ax.set_xscale('log')
+ax.grid(True, alpha=0.3, linestyle='--', which='both')
+ax.axvline(x=1.0, color='red', linestyle=':', linewidth=2, alpha=0.4)
 
 plt.tight_layout()
 plot_file = bench / 'binder_crossing_final.png'
