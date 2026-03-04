@@ -1,4 +1,4 @@
-L,ratio,n_measured,mean_U,var_U,se_U,tau_int,n_configs_1pct,n_autocorr_1pct,n_configs_001pct,n_autocorr_001pct
+L,ratio,n_measured,mean_U,var_U,se_U,tau_int,n_configs_10ppt,n_autocorr_10ppt,n_configs_1ppt,n_autocorr_1ppt
 16,0.9000000000,5000,0.94478663,0.01447246,0.00170132,0.60,87,146,8677,14474
 16,0.9136490000,5000,0.92688981,0.02018766,0.00200936,0.66,133,203,13288,20189
 16,0.9275050000,5000,0.91462349,0.02358755,0.00217198,0.63,150,237,14963,23589
