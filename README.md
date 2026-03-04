@@ -45,6 +45,8 @@ Files of interest
 
 - `ConTimeIsing.cpp` — main simulation source.
 - `CMakeLists.txt` — minimal build scaffold (added).
+- `ALGORITHM_README.md` — collaborator-focused explanation of the method (QMC-to-classical mapping).
+- `ALGORITHM_PERFORMANCE.md` — detailed implementation/performance deep dive.
 
 If you'd like, I can:
 - Add a small example script to run a short test-config and produce sample output.
