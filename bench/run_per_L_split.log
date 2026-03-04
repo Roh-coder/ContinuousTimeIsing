@@ -1,0 +1,1378 @@
+L,ratio,Gamma,K,m2,m2_err,m4,m4_err,U,U_err,n,sweeps_between,burn_in
+============================================================
+[chain] L=32  BC=1
+[job] L=32 (1/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.19 elapsed_s=3.74
+  [cfg] 26/500 avg_segments_per_site=28.56 elapsed_s=5.00
+  [cfg] 51/500 avg_segments_per_site=30.19 elapsed_s=7.26
+  [cfg] 76/500 avg_segments_per_site=28.19 elapsed_s=9.11
+  [cfg] 101/500 avg_segments_per_site=28.50 elapsed_s=10.47
+  [cfg] 126/500 avg_segments_per_site=27.50 elapsed_s=11.59
+  [cfg] 151/500 avg_segments_per_site=28.94 elapsed_s=13.37
+  [cfg] 176/500 avg_segments_per_site=28.12 elapsed_s=15.11
+  [cfg] 201/500 avg_segments_per_site=27.56 elapsed_s=16.57
+  [cfg] 226/500 avg_segments_per_site=26.56 elapsed_s=17.86
+  [cfg] 251/500 avg_segments_per_site=29.25 elapsed_s=20.18
+  [cfg] 276/500 avg_segments_per_site=28.69 elapsed_s=21.57
+  [cfg] 301/500 avg_segments_per_site=27.69 elapsed_s=22.81
+  [cfg] 326/500 avg_segments_per_site=26.69 elapsed_s=24.33
+  [cfg] 351/500 avg_segments_per_site=27.25 elapsed_s=26.27
+  [cfg] 376/500 avg_segments_per_site=27.38 elapsed_s=28.06
+  [cfg] 401/500 avg_segments_per_site=24.50 elapsed_s=30.58
+  [cfg] 426/500 avg_segments_per_site=28.25 elapsed_s=32.34
+  [cfg] 451/500 avg_segments_per_site=27.38 elapsed_s=33.20
+  [cfg] 476/500 avg_segments_per_site=28.62 elapsed_s=34.41
+  [cfg] 500/500 avg_segments_per_site=28.50 elapsed_s=36.67
+[job_done] L=32 ratio=1.11111 U=0.204118 +/- 0.0234843 elapsed_s=37
+[job] L=32 (2/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.81 elapsed_s=2.65
+  [cfg] 26/500 avg_segments_per_site=26.50 elapsed_s=4.26
+  [cfg] 51/500 avg_segments_per_site=28.06 elapsed_s=6.13
+  [cfg] 76/500 avg_segments_per_site=28.12 elapsed_s=7.22
+  [cfg] 101/500 avg_segments_per_site=26.81 elapsed_s=8.31
+  [cfg] 126/500 avg_segments_per_site=28.69 elapsed_s=10.12
+  [cfg] 151/500 avg_segments_per_site=29.69 elapsed_s=12.12
+  [cfg] 176/500 avg_segments_per_site=26.88 elapsed_s=13.30
+  [cfg] 201/500 avg_segments_per_site=27.94 elapsed_s=14.62
+  [cfg] 226/500 avg_segments_per_site=27.31 elapsed_s=16.82
+  [cfg] 251/500 avg_segments_per_site=29.00 elapsed_s=18.15
+  [cfg] 276/500 avg_segments_per_site=29.31 elapsed_s=19.40
+  [cfg] 301/500 avg_segments_per_site=26.25 elapsed_s=20.98
+  [cfg] 326/500 avg_segments_per_site=26.62 elapsed_s=23.16
+  [cfg] 351/500 avg_segments_per_site=28.00 elapsed_s=24.44
+  [cfg] 376/500 avg_segments_per_site=26.44 elapsed_s=25.71
+  [cfg] 401/500 avg_segments_per_site=28.56 elapsed_s=28.35
+  [cfg] 426/500 avg_segments_per_site=29.81 elapsed_s=30.22
+  [cfg] 451/500 avg_segments_per_site=26.50 elapsed_s=31.69
+  [cfg] 476/500 avg_segments_per_site=25.81 elapsed_s=33.96
+  [cfg] 500/500 avg_segments_per_site=27.00 elapsed_s=35.27
+[job_done] L=32 ratio=1.11111 U=0.261376 +/- 0.0199406 elapsed_s=35
+[job] L=32 (3/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.44 elapsed_s=3.29
+  [cfg] 26/500 avg_segments_per_site=26.62 elapsed_s=5.72
+  [cfg] 51/500 avg_segments_per_site=26.38 elapsed_s=7.15
+  [cfg] 76/500 avg_segments_per_site=27.25 elapsed_s=9.49
+  [cfg] 101/500 avg_segments_per_site=29.00 elapsed_s=10.83
+  [cfg] 126/500 avg_segments_per_site=25.81 elapsed_s=12.19
+  [cfg] 151/500 avg_segments_per_site=27.94 elapsed_s=13.78
+  [cfg] 176/500 avg_segments_per_site=28.25 elapsed_s=15.66
+  [cfg] 201/500 avg_segments_per_site=27.31 elapsed_s=17.11
+  [cfg] 226/500 avg_segments_per_site=27.62 elapsed_s=18.73
+  [cfg] 251/500 avg_segments_per_site=28.50 elapsed_s=21.07
+  [cfg] 276/500 avg_segments_per_site=23.31 elapsed_s=22.85
+  [cfg] 301/500 avg_segments_per_site=28.44 elapsed_s=24.08
+  [cfg] 326/500 avg_segments_per_site=26.94 elapsed_s=26.32
+  [cfg] 351/500 avg_segments_per_site=28.25 elapsed_s=27.69
+  [cfg] 376/500 avg_segments_per_site=27.94 elapsed_s=28.97
+  [cfg] 401/500 avg_segments_per_site=25.56 elapsed_s=30.30
+  [cfg] 426/500 avg_segments_per_site=29.56 elapsed_s=32.31
+  [cfg] 451/500 avg_segments_per_site=28.44 elapsed_s=33.69
+  [cfg] 476/500 avg_segments_per_site=27.94 elapsed_s=34.92
+  [cfg] 500/500 avg_segments_per_site=29.19 elapsed_s=36.62
+[job_done] L=32 ratio=1.11111 U=0.215477 +/- 0.0281782 elapsed_s=37
+[job] L=32 (4/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.69 elapsed_s=3.09
+  [cfg] 26/500 avg_segments_per_site=30.06 elapsed_s=4.13
+  [cfg] 51/500 avg_segments_per_site=28.69 elapsed_s=5.94
+  [cfg] 76/500 avg_segments_per_site=29.19 elapsed_s=7.27
+  [cfg] 101/500 avg_segments_per_site=26.12 elapsed_s=8.62
+  [cfg] 126/500 avg_segments_per_site=30.44 elapsed_s=9.89
+  [cfg] 151/500 avg_segments_per_site=30.06 elapsed_s=12.11
+  [cfg] 176/500 avg_segments_per_site=29.25 elapsed_s=13.66
+  [cfg] 201/500 avg_segments_per_site=28.00 elapsed_s=14.90
+  [cfg] 226/500 avg_segments_per_site=25.75 elapsed_s=16.09
+  [cfg] 251/500 avg_segments_per_site=28.50 elapsed_s=17.89
+  [cfg] 276/500 avg_segments_per_site=27.38 elapsed_s=19.16
+  [cfg] 301/500 avg_segments_per_site=27.94 elapsed_s=20.42
+  [cfg] 326/500 avg_segments_per_site=28.56 elapsed_s=22.34
+  [cfg] 351/500 avg_segments_per_site=27.44 elapsed_s=24.37
+  [cfg] 376/500 avg_segments_per_site=27.00 elapsed_s=25.85
+  [cfg] 401/500 avg_segments_per_site=27.88 elapsed_s=27.57
+  [cfg] 426/500 avg_segments_per_site=28.12 elapsed_s=29.17
+  [cfg] 451/500 avg_segments_per_site=28.38 elapsed_s=30.33
+  [cfg] 476/500 avg_segments_per_site=27.12 elapsed_s=31.53
+  [cfg] 500/500 avg_segments_per_site=28.81 elapsed_s=33.38
+[job_done] L=32 ratio=1.11111 U=0.278772 +/- 0.0167987 elapsed_s=33
+[job] L=32 (5/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.56 elapsed_s=3.19
+  [cfg] 26/500 avg_segments_per_site=29.06 elapsed_s=4.26
+  [cfg] 51/500 avg_segments_per_site=26.50 elapsed_s=6.39
+  [cfg] 76/500 avg_segments_per_site=29.50 elapsed_s=7.53
+  [cfg] 101/500 avg_segments_per_site=27.12 elapsed_s=9.00
+  [cfg] 126/500 avg_segments_per_site=27.25 elapsed_s=10.66
+  [cfg] 151/500 avg_segments_per_site=28.12 elapsed_s=12.72
+  [cfg] 176/500 avg_segments_per_site=28.75 elapsed_s=13.79
+  [cfg] 201/500 avg_segments_per_site=27.19 elapsed_s=14.91
+  [cfg] 226/500 avg_segments_per_site=28.38 elapsed_s=16.43
+  [cfg] 251/500 avg_segments_per_site=28.62 elapsed_s=18.18
+  [cfg] 276/500 avg_segments_per_site=28.19 elapsed_s=19.44
+  [cfg] 301/500 avg_segments_per_site=26.75 elapsed_s=20.67
+  [cfg] 326/500 avg_segments_per_site=25.62 elapsed_s=22.19
+  [cfg] 351/500 avg_segments_per_site=27.50 elapsed_s=23.86
+  [cfg] 376/500 avg_segments_per_site=27.56 elapsed_s=25.24
+  [cfg] 401/500 avg_segments_per_site=28.44 elapsed_s=26.44
+  [cfg] 426/500 avg_segments_per_site=28.44 elapsed_s=28.00
+  [cfg] 451/500 avg_segments_per_site=27.25 elapsed_s=29.99
+  [cfg] 476/500 avg_segments_per_site=26.31 elapsed_s=31.52
+  [cfg] 500/500 avg_segments_per_site=29.25 elapsed_s=32.64
+[job_done] L=32 ratio=1.11111 U=0.177512 +/- 0.0270243 elapsed_s=33
+[job] L=32 (6/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.31 elapsed_s=3.56
+  [cfg] 26/500 avg_segments_per_site=28.56 elapsed_s=4.67
+  [cfg] 51/500 avg_segments_per_site=28.94 elapsed_s=6.05
+  [cfg] 76/500 avg_segments_per_site=30.50 elapsed_s=8.00
+  [cfg] 101/500 avg_segments_per_site=26.62 elapsed_s=9.47
+  [cfg] 126/500 avg_segments_per_site=28.19 elapsed_s=10.71
+  [cfg] 151/500 avg_segments_per_site=26.75 elapsed_s=11.96
+  [cfg] 176/500 avg_segments_per_site=26.56 elapsed_s=14.29
+  [cfg] 201/500 avg_segments_per_site=28.69 elapsed_s=15.76
+  [cfg] 226/500 avg_segments_per_site=28.25 elapsed_s=16.94
+  [cfg] 251/500 avg_segments_per_site=28.31 elapsed_s=18.64
+  [cfg] 276/500 avg_segments_per_site=27.88 elapsed_s=20.96
+  [cfg] 301/500 avg_segments_per_site=28.31 elapsed_s=22.23
+  [cfg] 326/500 avg_segments_per_site=28.00 elapsed_s=23.44
+  [cfg] 351/500 avg_segments_per_site=28.06 elapsed_s=25.43
+  [cfg] 376/500 avg_segments_per_site=27.69 elapsed_s=26.70
+  [cfg] 401/500 avg_segments_per_site=29.38 elapsed_s=28.11
+  [cfg] 426/500 avg_segments_per_site=28.50 elapsed_s=29.84
+  [cfg] 451/500 avg_segments_per_site=29.38 elapsed_s=31.50
+  [cfg] 476/500 avg_segments_per_site=27.56 elapsed_s=32.82
+  [cfg] 500/500 avg_segments_per_site=26.81 elapsed_s=33.98
+[job_done] L=32 ratio=1.11111 U=0.213132 +/- 0.0195054 elapsed_s=34
+[job] L=32 (7/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.88 elapsed_s=3.65
+  [cfg] 26/500 avg_segments_per_site=27.25 elapsed_s=5.00
+  [cfg] 51/500 avg_segments_per_site=27.12 elapsed_s=6.48
+  [cfg] 76/500 avg_segments_per_site=28.94 elapsed_s=8.68
+  [cfg] 101/500 avg_segments_per_site=25.19 elapsed_s=9.95
+  [cfg] 126/500 avg_segments_per_site=27.19 elapsed_s=11.21
+  [cfg] 151/500 avg_segments_per_site=27.50 elapsed_s=13.08
+  [cfg] 176/500 avg_segments_per_site=26.75 elapsed_s=14.77
+  [cfg] 201/500 avg_segments_per_site=27.81 elapsed_s=15.68
+  [cfg] 226/500 avg_segments_per_site=25.69 elapsed_s=17.08
+  [cfg] 251/500 avg_segments_per_site=29.00 elapsed_s=18.60
+  [cfg] 276/500 avg_segments_per_site=29.94 elapsed_s=20.50
+  [cfg] 301/500 avg_segments_per_site=28.31 elapsed_s=21.54
+  [cfg] 326/500 avg_segments_per_site=28.00 elapsed_s=22.91
+  [cfg] 351/500 avg_segments_per_site=27.31 elapsed_s=24.90
+  [cfg] 376/500 avg_segments_per_site=27.69 elapsed_s=26.75
+  [cfg] 401/500 avg_segments_per_site=27.62 elapsed_s=28.07
+  [cfg] 426/500 avg_segments_per_site=27.56 elapsed_s=29.05
+  [cfg] 451/500 avg_segments_per_site=28.62 elapsed_s=31.29
+  [cfg] 476/500 avg_segments_per_site=26.06 elapsed_s=32.88
+  [cfg] 500/500 avg_segments_per_site=27.56 elapsed_s=34.16
+[job_done] L=32 ratio=1.11111 U=0.217431 +/- 0.0173685 elapsed_s=34
+[job] L=32 (8/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.94 elapsed_s=4.11
+  [cfg] 26/500 avg_segments_per_site=29.25 elapsed_s=5.48
+  [cfg] 51/500 avg_segments_per_site=27.94 elapsed_s=6.64
+  [cfg] 76/500 avg_segments_per_site=28.38 elapsed_s=8.65
+  [cfg] 101/500 avg_segments_per_site=28.50 elapsed_s=9.96
+  [cfg] 126/500 avg_segments_per_site=26.31 elapsed_s=11.52
+  [cfg] 151/500 avg_segments_per_site=28.62 elapsed_s=13.29
+  [cfg] 176/500 avg_segments_per_site=25.06 elapsed_s=15.37
+  [cfg] 201/500 avg_segments_per_site=28.88 elapsed_s=16.55
+  [cfg] 226/500 avg_segments_per_site=30.56 elapsed_s=17.75
+  [cfg] 251/500 avg_segments_per_site=26.75 elapsed_s=19.97
+  [cfg] 276/500 avg_segments_per_site=26.56 elapsed_s=21.53
+  [cfg] 301/500 avg_segments_per_site=28.75 elapsed_s=22.58
+  [cfg] 326/500 avg_segments_per_site=29.25 elapsed_s=24.22
+  [cfg] 351/500 avg_segments_per_site=27.94 elapsed_s=26.26
+  [cfg] 376/500 avg_segments_per_site=25.69 elapsed_s=27.64
+  [cfg] 401/500 avg_segments_per_site=27.06 elapsed_s=28.93
+  [cfg] 426/500 avg_segments_per_site=26.56 elapsed_s=30.48
+  [cfg] 451/500 avg_segments_per_site=28.56 elapsed_s=32.72
+  [cfg] 476/500 avg_segments_per_site=30.50 elapsed_s=33.77
+  [cfg] 500/500 avg_segments_per_site=29.81 elapsed_s=34.75
+[job_done] L=32 ratio=1.11111 U=0.242799 +/- 0.0188802 elapsed_s=35
+[job] L=32 (9/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.25 elapsed_s=3.31
+  [cfg] 26/500 avg_segments_per_site=26.94 elapsed_s=5.57
+  [cfg] 51/500 avg_segments_per_site=29.50 elapsed_s=6.95
+  [cfg] 76/500 avg_segments_per_site=28.94 elapsed_s=8.42
+  [cfg] 101/500 avg_segments_per_site=28.56 elapsed_s=10.19
+  [cfg] 126/500 avg_segments_per_site=27.00 elapsed_s=11.66
+  [cfg] 151/500 avg_segments_per_site=28.50 elapsed_s=13.14
+  [cfg] 176/500 avg_segments_per_site=27.19 elapsed_s=15.22
+  [cfg] 201/500 avg_segments_per_site=27.19 elapsed_s=16.68
+  [cfg] 226/500 avg_segments_per_site=26.12 elapsed_s=17.84
+  [cfg] 251/500 avg_segments_per_site=26.88 elapsed_s=19.10
+  [cfg] 276/500 avg_segments_per_site=28.38 elapsed_s=21.29
+  [cfg] 301/500 avg_segments_per_site=29.75 elapsed_s=22.93
+  [cfg] 326/500 avg_segments_per_site=27.00 elapsed_s=24.23
+  [cfg] 351/500 avg_segments_per_site=26.00 elapsed_s=25.64
+  [cfg] 376/500 avg_segments_per_site=27.62 elapsed_s=27.81
+  [cfg] 401/500 avg_segments_per_site=27.12 elapsed_s=29.08
+  [cfg] 426/500 avg_segments_per_site=27.50 elapsed_s=29.91
+  [cfg] 451/500 avg_segments_per_site=27.62 elapsed_s=31.16
+  [cfg] 476/500 avg_segments_per_site=26.88 elapsed_s=33.63
+  [cfg] 500/500 avg_segments_per_site=28.12 elapsed_s=35.00
+[job_done] L=32 ratio=1.11111 U=0.247086 +/- 0.0226043 elapsed_s=35
+[job] L=32 (10/10) ratio=1.11111 Gamma=1.11111 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=29.38 elapsed_s=3.14
+  [cfg] 26/500 avg_segments_per_site=28.81 elapsed_s=5.08
+  [cfg] 51/500 avg_segments_per_site=26.00 elapsed_s=6.35
+  [cfg] 76/500 avg_segments_per_site=30.81 elapsed_s=7.68
+  [cfg] 101/500 avg_segments_per_site=27.81 elapsed_s=9.77
+  [cfg] 126/500 avg_segments_per_site=28.56 elapsed_s=11.42
+  [cfg] 151/500 avg_segments_per_site=28.69 elapsed_s=12.75
+  [cfg] 176/500 avg_segments_per_site=28.38 elapsed_s=14.09
+  [cfg] 201/500 avg_segments_per_site=28.50 elapsed_s=15.94
+  [cfg] 226/500 avg_segments_per_site=27.88 elapsed_s=17.91
+  [cfg] 251/500 avg_segments_per_site=30.25 elapsed_s=19.30
+  [cfg] 276/500 avg_segments_per_site=27.31 elapsed_s=20.92
+  [cfg] 301/500 avg_segments_per_site=28.25 elapsed_s=22.91
+  [cfg] 326/500 avg_segments_per_site=26.94 elapsed_s=24.51
+  [cfg] 351/500 avg_segments_per_site=28.62 elapsed_s=25.69
+  [cfg] 376/500 avg_segments_per_site=28.62 elapsed_s=27.69
+  [cfg] 401/500 avg_segments_per_site=31.38 elapsed_s=29.71
+  [cfg] 426/500 avg_segments_per_site=28.81 elapsed_s=31.15
+  [cfg] 451/500 avg_segments_per_site=28.81 elapsed_s=32.82
+  [cfg] 476/500 avg_segments_per_site=27.25 elapsed_s=34.88
+  [cfg] 500/500 avg_segments_per_site=29.50 elapsed_s=36.15
+[job_done] L=32 ratio=1.11111 U=0.223931 +/- 0.0173288 elapsed_s=36
+32,1.1111111111,1.1111111111,1,0.045028133959190288,0.0013651142823585688,0.0052548935453763067,0.00032215651516940826,0.20411840422307431,0.023484337530666803,500,5,250
+32,1.1111111111,1.1111111111,1,0.047761985581296615,0.0013767465446987081,0.0056511207354037534,0.00031061845072874689,0.26137638369217542,0.019940559380891232,500,5,250
+32,1.1111111111,1.1111111111,1,0.046437552035207136,0.0014824327194769905,0.0055400214427609095,0.00037361799897239794,0.21547693442567006,0.028178221529182677,500,5,250
+32,1.1111111111,1.1111111111,1,0.04623746623314668,0.0012439714280471357,0.0052217379577811068,0.00025761558429678039,0.27877222745368074,0.016798729760410497,500,5,250
+32,1.1111111111,1.1111111111,1,0.047252776170482208,0.0015827092290792261,0.0059057832589439691,0.00042387785751155023,0.17751198312039149,0.027024274749771537,500,5,250
+32,1.1111111111,1.1111111111,1,0.041216621697445131,0.001029828075183644,0.00437229201858524,0.00021633151724821502,0.21313214408163556,0.019505448750653572,500,5,250
+32,1.1111111111,1.1111111111,1,0.045301355493798739,0.0012058796342176161,0.0052642157984809307,0.00026815302764144841,0.21743064998326503,0.017368469791485142,500,5,250
+32,1.1111111111,1.1111111111,1,0.046788779710427802,0.0013697637490150075,0.005504507746378587,0.00030472856792017257,0.24279946306864586,0.018880241501354408,500,5,250
+32,1.1111111111,1.1111111111,1,0.046690201750682447,0.0012945209979806503,0.0054626481625343276,0.00031236066156378024,0.24708644339199209,0.022604287421670789,500,5,250
+32,1.1111111111,1.1111111111,1,0.04125728672074163,0.0010007419644741679,0.0043441613369557533,0.00019954206428852089,0.22393059942514743,0.017328807347439083,500,5,250
+L,ratio,Gamma,K,m2,m2_err,m4,m4_err,U,U_err,n,sweeps_between,burn_in
+============================================================
+[chain] L=32  BC=1
+[job] L=32 (1/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.25 elapsed_s=3.44
+  [cfg] 26/500 avg_segments_per_site=26.94 elapsed_s=5.39
+  [cfg] 51/500 avg_segments_per_site=28.12 elapsed_s=6.54
+  [cfg] 76/500 avg_segments_per_site=27.94 elapsed_s=7.85
+  [cfg] 101/500 avg_segments_per_site=28.31 elapsed_s=9.94
+  [cfg] 126/500 avg_segments_per_site=27.06 elapsed_s=11.46
+  [cfg] 151/500 avg_segments_per_site=25.94 elapsed_s=12.79
+  [cfg] 176/500 avg_segments_per_site=29.00 elapsed_s=13.97
+  [cfg] 201/500 avg_segments_per_site=28.38 elapsed_s=16.53
+  [cfg] 226/500 avg_segments_per_site=28.25 elapsed_s=17.89
+  [cfg] 251/500 avg_segments_per_site=25.44 elapsed_s=18.99
+  [cfg] 276/500 avg_segments_per_site=28.00 elapsed_s=20.49
+  [cfg] 301/500 avg_segments_per_site=27.50 elapsed_s=22.74
+  [cfg] 326/500 avg_segments_per_site=27.31 elapsed_s=24.19
+  [cfg] 351/500 avg_segments_per_site=27.56 elapsed_s=25.23
+  [cfg] 376/500 avg_segments_per_site=25.88 elapsed_s=26.50
+  [cfg] 401/500 avg_segments_per_site=28.25 elapsed_s=28.61
+  [cfg] 426/500 avg_segments_per_site=28.69 elapsed_s=29.99
+  [cfg] 451/500 avg_segments_per_site=28.06 elapsed_s=31.23
+  [cfg] 476/500 avg_segments_per_site=26.81 elapsed_s=32.76
+  [cfg] 500/500 avg_segments_per_site=27.38 elapsed_s=34.77
+[job_done] L=32 ratio=1.10056 U=0.292459 +/- 0.0189615 elapsed_s=35
+[job] L=32 (2/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.56 elapsed_s=2.50
+  [cfg] 26/500 avg_segments_per_site=28.44 elapsed_s=4.19
+  [cfg] 51/500 avg_segments_per_site=28.12 elapsed_s=6.22
+  [cfg] 76/500 avg_segments_per_site=27.06 elapsed_s=7.55
+  [cfg] 101/500 avg_segments_per_site=30.81 elapsed_s=8.89
+  [cfg] 126/500 avg_segments_per_site=27.19 elapsed_s=11.18
+  [cfg] 151/500 avg_segments_per_site=26.75 elapsed_s=12.89
+  [cfg] 176/500 avg_segments_per_site=27.00 elapsed_s=14.18
+  [cfg] 201/500 avg_segments_per_site=28.69 elapsed_s=15.65
+  [cfg] 226/500 avg_segments_per_site=28.19 elapsed_s=17.77
+  [cfg] 251/500 avg_segments_per_site=26.19 elapsed_s=19.03
+  [cfg] 276/500 avg_segments_per_site=27.75 elapsed_s=20.26
+  [cfg] 301/500 avg_segments_per_site=25.44 elapsed_s=21.36
+  [cfg] 326/500 avg_segments_per_site=25.75 elapsed_s=23.17
+  [cfg] 351/500 avg_segments_per_site=27.81 elapsed_s=24.83
+  [cfg] 376/500 avg_segments_per_site=27.81 elapsed_s=25.89
+  [cfg] 401/500 avg_segments_per_site=25.56 elapsed_s=27.13
+  [cfg] 426/500 avg_segments_per_site=25.69 elapsed_s=29.10
+  [cfg] 451/500 avg_segments_per_site=26.88 elapsed_s=30.79
+  [cfg] 476/500 avg_segments_per_site=29.62 elapsed_s=31.98
+  [cfg] 500/500 avg_segments_per_site=27.56 elapsed_s=32.91
+[job_done] L=32 ratio=1.10056 U=0.31092 +/- 0.0189329 elapsed_s=33
+[job] L=32 (3/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.25 elapsed_s=3.71
+  [cfg] 26/500 avg_segments_per_site=25.69 elapsed_s=5.09
+  [cfg] 51/500 avg_segments_per_site=29.31 elapsed_s=6.25
+  [cfg] 76/500 avg_segments_per_site=28.19 elapsed_s=8.03
+  [cfg] 101/500 avg_segments_per_site=28.31 elapsed_s=9.97
+  [cfg] 126/500 avg_segments_per_site=26.00 elapsed_s=11.42
+  [cfg] 151/500 avg_segments_per_site=28.81 elapsed_s=12.67
+  [cfg] 176/500 avg_segments_per_site=26.00 elapsed_s=14.75
+  [cfg] 201/500 avg_segments_per_site=27.44 elapsed_s=16.17
+  [cfg] 226/500 avg_segments_per_site=26.38 elapsed_s=17.32
+  [cfg] 251/500 avg_segments_per_site=26.88 elapsed_s=18.81
+  [cfg] 276/500 avg_segments_per_site=27.75 elapsed_s=20.72
+  [cfg] 301/500 avg_segments_per_site=28.56 elapsed_s=22.39
+  [cfg] 326/500 avg_segments_per_site=27.88 elapsed_s=23.64
+  [cfg] 351/500 avg_segments_per_site=26.75 elapsed_s=24.79
+  [cfg] 376/500 avg_segments_per_site=25.00 elapsed_s=26.63
+  [cfg] 401/500 avg_segments_per_site=27.44 elapsed_s=28.11
+  [cfg] 426/500 avg_segments_per_site=25.75 elapsed_s=29.17
+  [cfg] 451/500 avg_segments_per_site=28.19 elapsed_s=30.27
+  [cfg] 476/500 avg_segments_per_site=26.88 elapsed_s=31.70
+  [cfg] 500/500 avg_segments_per_site=26.12 elapsed_s=33.63
+[job_done] L=32 ratio=1.10056 U=0.263887 +/- 0.0161273 elapsed_s=34
+[job] L=32 (4/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.69 elapsed_s=2.24
+  [cfg] 26/500 avg_segments_per_site=26.50 elapsed_s=3.43
+  [cfg] 51/500 avg_segments_per_site=25.38 elapsed_s=5.68
+  [cfg] 76/500 avg_segments_per_site=28.00 elapsed_s=7.20
+  [cfg] 101/500 avg_segments_per_site=27.56 elapsed_s=8.47
+  [cfg] 126/500 avg_segments_per_site=26.19 elapsed_s=10.14
+  [cfg] 151/500 avg_segments_per_site=25.06 elapsed_s=11.91
+  [cfg] 176/500 avg_segments_per_site=28.44 elapsed_s=12.93
+  [cfg] 201/500 avg_segments_per_site=27.44 elapsed_s=13.98
+  [cfg] 226/500 avg_segments_per_site=26.38 elapsed_s=15.27
+  [cfg] 251/500 avg_segments_per_site=27.94 elapsed_s=17.37
+  [cfg] 276/500 avg_segments_per_site=25.81 elapsed_s=19.02
+  [cfg] 301/500 avg_segments_per_site=27.06 elapsed_s=20.29
+  [cfg] 326/500 avg_segments_per_site=24.56 elapsed_s=21.20
+  [cfg] 351/500 avg_segments_per_site=28.62 elapsed_s=22.80
+  [cfg] 376/500 avg_segments_per_site=27.25 elapsed_s=24.98
+  [cfg] 401/500 avg_segments_per_site=26.94 elapsed_s=26.21
+  [cfg] 426/500 avg_segments_per_site=26.81 elapsed_s=27.64
+  [cfg] 451/500 avg_segments_per_site=29.25 elapsed_s=29.68
+  [cfg] 476/500 avg_segments_per_site=28.44 elapsed_s=31.14
+  [cfg] 500/500 avg_segments_per_site=25.50 elapsed_s=32.26
+[job_done] L=32 ratio=1.10056 U=0.313333 +/- 0.0181046 elapsed_s=32
+[job] L=32 (5/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.31 elapsed_s=3.21
+  [cfg] 26/500 avg_segments_per_site=28.44 elapsed_s=4.86
+  [cfg] 51/500 avg_segments_per_site=25.44 elapsed_s=6.08
+  [cfg] 76/500 avg_segments_per_site=27.56 elapsed_s=7.38
+  [cfg] 101/500 avg_segments_per_site=26.50 elapsed_s=8.95
+  [cfg] 126/500 avg_segments_per_site=26.50 elapsed_s=10.84
+  [cfg] 151/500 avg_segments_per_site=25.06 elapsed_s=11.92
+  [cfg] 176/500 avg_segments_per_site=24.88 elapsed_s=13.20
+  [cfg] 201/500 avg_segments_per_site=26.62 elapsed_s=14.96
+  [cfg] 226/500 avg_segments_per_site=28.56 elapsed_s=16.67
+  [cfg] 251/500 avg_segments_per_site=26.88 elapsed_s=17.82
+  [cfg] 276/500 avg_segments_per_site=26.06 elapsed_s=19.04
+  [cfg] 301/500 avg_segments_per_site=26.69 elapsed_s=20.79
+  [cfg] 326/500 avg_segments_per_site=27.25 elapsed_s=22.64
+  [cfg] 351/500 avg_segments_per_site=29.38 elapsed_s=24.23
+  [cfg] 376/500 avg_segments_per_site=26.81 elapsed_s=25.38
+  [cfg] 401/500 avg_segments_per_site=26.88 elapsed_s=27.36
+  [cfg] 426/500 avg_segments_per_site=27.62 elapsed_s=28.95
+  [cfg] 451/500 avg_segments_per_site=27.62 elapsed_s=30.11
+  [cfg] 476/500 avg_segments_per_site=27.50 elapsed_s=31.31
+  [cfg] 500/500 avg_segments_per_site=26.44 elapsed_s=32.98
+[job_done] L=32 ratio=1.10056 U=0.266513 +/- 0.0176344 elapsed_s=33
+[job] L=32 (6/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.62 elapsed_s=3.56
+  [cfg] 26/500 avg_segments_per_site=27.94 elapsed_s=4.74
+  [cfg] 51/500 avg_segments_per_site=29.00 elapsed_s=6.77
+  [cfg] 76/500 avg_segments_per_site=29.00 elapsed_s=8.36
+  [cfg] 101/500 avg_segments_per_site=27.75 elapsed_s=9.49
+  [cfg] 126/500 avg_segments_per_site=28.44 elapsed_s=10.87
+  [cfg] 151/500 avg_segments_per_site=26.06 elapsed_s=13.17
+  [cfg] 176/500 avg_segments_per_site=26.56 elapsed_s=14.93
+  [cfg] 201/500 avg_segments_per_site=29.69 elapsed_s=16.19
+  [cfg] 226/500 avg_segments_per_site=28.12 elapsed_s=18.11
+  [cfg] 251/500 avg_segments_per_site=26.44 elapsed_s=19.57
+  [cfg] 276/500 avg_segments_per_site=25.75 elapsed_s=20.84
+  [cfg] 301/500 avg_segments_per_site=27.88 elapsed_s=22.21
+  [cfg] 326/500 avg_segments_per_site=28.19 elapsed_s=23.63
+  [cfg] 351/500 avg_segments_per_site=28.44 elapsed_s=25.86
+  [cfg] 376/500 avg_segments_per_site=27.12 elapsed_s=28.04
+  [cfg] 401/500 avg_segments_per_site=26.94 elapsed_s=29.33
+  [cfg] 426/500 avg_segments_per_site=28.88 elapsed_s=31.14
+  [cfg] 451/500 avg_segments_per_site=27.69 elapsed_s=32.84
+  [cfg] 476/500 avg_segments_per_site=28.69 elapsed_s=33.95
+  [cfg] 500/500 avg_segments_per_site=25.56 elapsed_s=34.97
+[job_done] L=32 ratio=1.10056 U=0.295541 +/- 0.0166607 elapsed_s=35
+[job] L=32 (7/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.19 elapsed_s=3.94
+  [cfg] 26/500 avg_segments_per_site=25.88 elapsed_s=5.27
+  [cfg] 51/500 avg_segments_per_site=25.19 elapsed_s=6.81
+  [cfg] 76/500 avg_segments_per_site=27.38 elapsed_s=9.05
+  [cfg] 101/500 avg_segments_per_site=27.25 elapsed_s=11.02
+  [cfg] 126/500 avg_segments_per_site=27.19 elapsed_s=12.31
+  [cfg] 151/500 avg_segments_per_site=28.06 elapsed_s=13.55
+  [cfg] 176/500 avg_segments_per_site=27.44 elapsed_s=15.94
+  [cfg] 201/500 avg_segments_per_site=28.50 elapsed_s=18.13
+  [cfg] 226/500 avg_segments_per_site=28.56 elapsed_s=20.04
+  [cfg] 251/500 avg_segments_per_site=28.38 elapsed_s=22.16
+  [cfg] 276/500 avg_segments_per_site=26.81 elapsed_s=24.12
+  [cfg] 301/500 avg_segments_per_site=26.44 elapsed_s=25.95
+  [cfg] 326/500 avg_segments_per_site=27.38 elapsed_s=28.01
+  [cfg] 351/500 avg_segments_per_site=26.31 elapsed_s=29.91
+  [cfg] 376/500 avg_segments_per_site=26.25 elapsed_s=31.46
+  [cfg] 401/500 avg_segments_per_site=25.56 elapsed_s=33.46
+  [cfg] 426/500 avg_segments_per_site=25.94 elapsed_s=35.51
+  [cfg] 451/500 avg_segments_per_site=26.69 elapsed_s=37.51
+  [cfg] 476/500 avg_segments_per_site=28.88 elapsed_s=39.35
+  [cfg] 500/500 avg_segments_per_site=26.94 elapsed_s=41.54
+[job_done] L=32 ratio=1.10056 U=0.249975 +/- 0.0212303 elapsed_s=42
+[job] L=32 (8/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.50 elapsed_s=3.53
+  [cfg] 26/500 avg_segments_per_site=26.50 elapsed_s=5.82
+  [cfg] 51/500 avg_segments_per_site=27.88 elapsed_s=7.69
+  [cfg] 76/500 avg_segments_per_site=27.88 elapsed_s=8.81
+  [cfg] 101/500 avg_segments_per_site=26.38 elapsed_s=9.88
+  [cfg] 126/500 avg_segments_per_site=26.50 elapsed_s=12.20
+  [cfg] 151/500 avg_segments_per_site=27.62 elapsed_s=13.59
+  [cfg] 176/500 avg_segments_per_site=26.50 elapsed_s=15.42
+  [cfg] 201/500 avg_segments_per_site=29.69 elapsed_s=17.04
+  [cfg] 226/500 avg_segments_per_site=28.25 elapsed_s=18.86
+  [cfg] 251/500 avg_segments_per_site=27.88 elapsed_s=20.11
+  [cfg] 276/500 avg_segments_per_site=27.38 elapsed_s=21.85
+  [cfg] 301/500 avg_segments_per_site=27.50 elapsed_s=23.43
+  [cfg] 326/500 avg_segments_per_site=29.19 elapsed_s=25.45
+  [cfg] 351/500 avg_segments_per_site=26.38 elapsed_s=26.93
+  [cfg] 376/500 avg_segments_per_site=27.12 elapsed_s=28.26
+  [cfg] 401/500 avg_segments_per_site=29.69 elapsed_s=29.81
+  [cfg] 426/500 avg_segments_per_site=23.50 elapsed_s=31.32
+  [cfg] 451/500 avg_segments_per_site=26.12 elapsed_s=32.90
+  [cfg] 476/500 avg_segments_per_site=27.12 elapsed_s=34.23
+  [cfg] 500/500 avg_segments_per_site=29.06 elapsed_s=35.29
+[job_done] L=32 ratio=1.10056 U=0.268593 +/- 0.0176454 elapsed_s=35
+[job] L=32 (9/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.88 elapsed_s=3.29
+  [cfg] 26/500 avg_segments_per_site=26.31 elapsed_s=4.47
+  [cfg] 51/500 avg_segments_per_site=27.12 elapsed_s=5.54
+  [cfg] 76/500 avg_segments_per_site=26.38 elapsed_s=7.56
+  [cfg] 101/500 avg_segments_per_site=26.69 elapsed_s=9.24
+  [cfg] 126/500 avg_segments_per_site=29.19 elapsed_s=10.31
+  [cfg] 151/500 avg_segments_per_site=29.19 elapsed_s=11.42
+  [cfg] 176/500 avg_segments_per_site=29.56 elapsed_s=13.27
+  [cfg] 201/500 avg_segments_per_site=27.12 elapsed_s=14.84
+  [cfg] 226/500 avg_segments_per_site=25.25 elapsed_s=16.12
+  [cfg] 251/500 avg_segments_per_site=26.81 elapsed_s=17.36
+  [cfg] 276/500 avg_segments_per_site=28.94 elapsed_s=19.24
+  [cfg] 301/500 avg_segments_per_site=29.69 elapsed_s=21.33
+  [cfg] 326/500 avg_segments_per_site=29.06 elapsed_s=22.79
+  [cfg] 351/500 avg_segments_per_site=27.94 elapsed_s=24.48
+  [cfg] 376/500 avg_segments_per_site=26.69 elapsed_s=27.47
+  [cfg] 401/500 avg_segments_per_site=28.56 elapsed_s=28.87
+  [cfg] 426/500 avg_segments_per_site=24.56 elapsed_s=30.07
+  [cfg] 451/500 avg_segments_per_site=28.44 elapsed_s=31.35
+  [cfg] 476/500 avg_segments_per_site=24.88 elapsed_s=33.37
+  [cfg] 500/500 avg_segments_per_site=27.56 elapsed_s=34.81
+[job_done] L=32 ratio=1.10056 U=0.239968 +/- 0.0293781 elapsed_s=35
+[job] L=32 (10/10) ratio=1.10056 Gamma=1.10056 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.69 elapsed_s=3.47
+  [cfg] 26/500 avg_segments_per_site=25.50 elapsed_s=5.51
+  [cfg] 51/500 avg_segments_per_site=27.50 elapsed_s=7.06
+  [cfg] 76/500 avg_segments_per_site=30.50 elapsed_s=8.72
+  [cfg] 101/500 avg_segments_per_site=25.19 elapsed_s=10.20
+  [cfg] 126/500 avg_segments_per_site=26.44 elapsed_s=12.53
+  [cfg] 151/500 avg_segments_per_site=27.44 elapsed_s=14.24
+  [cfg] 176/500 avg_segments_per_site=26.12 elapsed_s=16.09
+  [cfg] 201/500 avg_segments_per_site=25.19 elapsed_s=17.72
+  [cfg] 226/500 avg_segments_per_site=27.69 elapsed_s=19.44
+  [cfg] 251/500 avg_segments_per_site=26.00 elapsed_s=21.13
+  [cfg] 276/500 avg_segments_per_site=26.69 elapsed_s=22.35
+  [cfg] 301/500 avg_segments_per_site=27.88 elapsed_s=25.04
+  [cfg] 326/500 avg_segments_per_site=25.88 elapsed_s=26.75
+  [cfg] 351/500 avg_segments_per_site=30.06 elapsed_s=28.27
+  [cfg] 376/500 avg_segments_per_site=28.69 elapsed_s=30.15
+  [cfg] 401/500 avg_segments_per_site=27.31 elapsed_s=32.29
+  [cfg] 426/500 avg_segments_per_site=28.50 elapsed_s=33.77
+  [cfg] 451/500 avg_segments_per_site=27.25 elapsed_s=35.21
+  [cfg] 476/500 avg_segments_per_site=27.00 elapsed_s=37.35
+  [cfg] 500/500 avg_segments_per_site=27.31 elapsed_s=39.22
+[job_done] L=32 ratio=1.10056 U=0.249016 +/- 0.0228153 elapsed_s=39
+32,1.1005555556,1.1005555556,1,0.053059300642294659,0.0015078743043370252,0.006799162170866172,0.00037062807181258975,0.29245904296037029,0.018961476630712036,500,5,250
+32,1.1005555556,1.1005555556,1,0.055854950202379315,0.001648939291497831,0.0074193324677020375,0.00040405665371931178,0.31092001064620262,0.018932856192789872,500,5,250
+32,1.1005555556,1.1005555556,1,0.051315719844372921,0.0014111188677164111,0.0065101256897751704,0.00031579447721935143,0.26388683402528162,0.016127251641057275,500,5,250
+32,1.1005555556,1.1005555556,1,0.052907536779533797,0.0014581516187925172,0.0066434568368405724,0.00033391278781552767,0.31333346658038769,0.018104610091142351,500,5,250
+32,1.1005555556,1.1005555556,1,0.051425395888997333,0.0014536320183227353,0.0065240936768940615,0.00033578502027949245,0.26651312670078597,0.017634409016754112,500,5,250
+32,1.1005555556,1.1005555556,1,0.053616119019301474,0.0014631705077987622,0.0069248906114132364,0.00033899244297206526,0.29554145360949124,0.016660749420755853,500,5,250
+32,1.1005555556,1.1005555556,1,0.053180302396522779,0.0016071873433866899,0.007070511867375227,0.00041257196219017463,0.24997503899596998,0.021230306261032599,500,5,250
+32,1.1005555556,1.1005555556,1,0.050313630509219026,0.0014188068214056519,0.0062345246663327702,0.00034805847944100924,0.26859346203418188,0.01764541101183759,500,5,250
+32,1.1005555556,1.1005555556,1,0.049780693053721473,0.0015615841908030983,0.0062450251604358811,0.00041803651923971095,0.23996839832018596,0.029378072017294775,500,5,250
+32,1.1005555556,1.1005555556,1,0.055177529682672602,0.00171470547697965,0.0076174050723968158,0.00047450206883509753,0.24901577931756788,0.022815296989357001,500,5,250
+L,ratio,Gamma,K,m2,m2_err,m4,m4_err,U,U_err,n,sweeps_between,burn_in
+============================================================
+[chain] L=32  BC=1
+[job] L=32 (1/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.00 elapsed_s=3.23
+  [cfg] 26/500 avg_segments_per_site=23.19 elapsed_s=5.53
+  [cfg] 51/500 avg_segments_per_site=28.19 elapsed_s=7.17
+  [cfg] 76/500 avg_segments_per_site=27.06 elapsed_s=8.66
+  [cfg] 101/500 avg_segments_per_site=27.12 elapsed_s=10.75
+  [cfg] 126/500 avg_segments_per_site=26.06 elapsed_s=12.38
+  [cfg] 151/500 avg_segments_per_site=27.00 elapsed_s=13.95
+  [cfg] 176/500 avg_segments_per_site=25.56 elapsed_s=15.63
+  [cfg] 201/500 avg_segments_per_site=23.62 elapsed_s=18.04
+  [cfg] 226/500 avg_segments_per_site=26.75 elapsed_s=19.67
+  [cfg] 251/500 avg_segments_per_site=27.19 elapsed_s=21.27
+  [cfg] 276/500 avg_segments_per_site=25.62 elapsed_s=23.29
+  [cfg] 301/500 avg_segments_per_site=27.56 elapsed_s=25.29
+  [cfg] 326/500 avg_segments_per_site=23.19 elapsed_s=26.89
+  [cfg] 351/500 avg_segments_per_site=27.88 elapsed_s=28.73
+  [cfg] 376/500 avg_segments_per_site=26.88 elapsed_s=30.83
+  [cfg] 401/500 avg_segments_per_site=29.50 elapsed_s=32.23
+  [cfg] 426/500 avg_segments_per_site=28.12 elapsed_s=33.47
+  [cfg] 451/500 avg_segments_per_site=25.56 elapsed_s=35.20
+  [cfg] 476/500 avg_segments_per_site=26.88 elapsed_s=37.28
+  [cfg] 500/500 avg_segments_per_site=30.12 elapsed_s=38.80
+[job_done] L=32 ratio=1.09 U=0.341051 +/- 0.0179053 elapsed_s=39
+[job] L=32 (2/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.75 elapsed_s=3.76
+  [cfg] 26/500 avg_segments_per_site=26.81 elapsed_s=5.64
+  [cfg] 51/500 avg_segments_per_site=29.06 elapsed_s=7.42
+  [cfg] 76/500 avg_segments_per_site=26.12 elapsed_s=9.57
+  [cfg] 101/500 avg_segments_per_site=28.69 elapsed_s=11.55
+  [cfg] 126/500 avg_segments_per_site=26.12 elapsed_s=12.63
+  [cfg] 151/500 avg_segments_per_site=26.38 elapsed_s=13.78
+  [cfg] 176/500 avg_segments_per_site=25.19 elapsed_s=15.61
+  [cfg] 201/500 avg_segments_per_site=27.88 elapsed_s=17.82
+  [cfg] 226/500 avg_segments_per_site=29.81 elapsed_s=19.19
+  [cfg] 251/500 avg_segments_per_site=27.69 elapsed_s=20.73
+  [cfg] 276/500 avg_segments_per_site=25.19 elapsed_s=22.82
+  [cfg] 301/500 avg_segments_per_site=27.75 elapsed_s=24.43
+  [cfg] 326/500 avg_segments_per_site=26.56 elapsed_s=25.91
+  [cfg] 351/500 avg_segments_per_site=26.31 elapsed_s=27.71
+  [cfg] 376/500 avg_segments_per_site=26.75 elapsed_s=29.95
+  [cfg] 401/500 avg_segments_per_site=26.25 elapsed_s=31.24
+  [cfg] 426/500 avg_segments_per_site=26.56 elapsed_s=32.94
+  [cfg] 451/500 avg_segments_per_site=28.12 elapsed_s=34.64
+  [cfg] 476/500 avg_segments_per_site=27.94 elapsed_s=36.61
+  [cfg] 500/500 avg_segments_per_site=26.62 elapsed_s=38.26
+[job_done] L=32 ratio=1.09 U=0.304014 +/- 0.0182455 elapsed_s=38
+[job] L=32 (3/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.06 elapsed_s=3.79
+  [cfg] 26/500 avg_segments_per_site=25.81 elapsed_s=5.61
+  [cfg] 51/500 avg_segments_per_site=26.44 elapsed_s=6.97
+  [cfg] 76/500 avg_segments_per_site=27.06 elapsed_s=8.22
+  [cfg] 101/500 avg_segments_per_site=26.31 elapsed_s=10.40
+  [cfg] 126/500 avg_segments_per_site=26.00 elapsed_s=12.00
+  [cfg] 151/500 avg_segments_per_site=28.25 elapsed_s=13.51
+  [cfg] 176/500 avg_segments_per_site=28.44 elapsed_s=15.34
+  [cfg] 201/500 avg_segments_per_site=27.38 elapsed_s=17.58
+  [cfg] 226/500 avg_segments_per_site=27.00 elapsed_s=19.08
+  [cfg] 251/500 avg_segments_per_site=25.62 elapsed_s=20.40
+  [cfg] 276/500 avg_segments_per_site=27.56 elapsed_s=22.58
+  [cfg] 301/500 avg_segments_per_site=28.19 elapsed_s=24.52
+  [cfg] 326/500 avg_segments_per_site=27.94 elapsed_s=25.99
+  [cfg] 351/500 avg_segments_per_site=27.19 elapsed_s=28.08
+  [cfg] 376/500 avg_segments_per_site=25.19 elapsed_s=30.07
+  [cfg] 401/500 avg_segments_per_site=28.00 elapsed_s=31.36
+  [cfg] 426/500 avg_segments_per_site=25.19 elapsed_s=32.57
+  [cfg] 451/500 avg_segments_per_site=25.50 elapsed_s=34.84
+  [cfg] 476/500 avg_segments_per_site=25.19 elapsed_s=36.77
+  [cfg] 500/500 avg_segments_per_site=25.50 elapsed_s=38.21
+[job_done] L=32 ratio=1.09 U=0.31919 +/- 0.0173462 elapsed_s=38
+[job] L=32 (4/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.12 elapsed_s=4.31
+  [cfg] 26/500 avg_segments_per_site=25.81 elapsed_s=5.75
+  [cfg] 51/500 avg_segments_per_site=28.62 elapsed_s=7.21
+  [cfg] 76/500 avg_segments_per_site=25.00 elapsed_s=9.30
+  [cfg] 101/500 avg_segments_per_site=26.44 elapsed_s=11.03
+  [cfg] 126/500 avg_segments_per_site=27.06 elapsed_s=12.29
+  [cfg] 151/500 avg_segments_per_site=27.38 elapsed_s=13.55
+  [cfg] 176/500 avg_segments_per_site=26.00 elapsed_s=15.86
+  [cfg] 201/500 avg_segments_per_site=25.50 elapsed_s=18.06
+  [cfg] 226/500 avg_segments_per_site=25.38 elapsed_s=19.65
+  [cfg] 251/500 avg_segments_per_site=27.12 elapsed_s=21.80
+  [cfg] 276/500 avg_segments_per_site=28.69 elapsed_s=23.80
+  [cfg] 301/500 avg_segments_per_site=28.12 elapsed_s=25.14
+  [cfg] 326/500 avg_segments_per_site=26.06 elapsed_s=27.17
+  [cfg] 351/500 avg_segments_per_site=28.31 elapsed_s=29.50
+  [cfg] 376/500 avg_segments_per_site=26.12 elapsed_s=31.16
+  [cfg] 401/500 avg_segments_per_site=27.50 elapsed_s=32.82
+  [cfg] 426/500 avg_segments_per_site=26.50 elapsed_s=35.03
+  [cfg] 451/500 avg_segments_per_site=26.06 elapsed_s=36.83
+  [cfg] 476/500 avg_segments_per_site=26.69 elapsed_s=38.29
+  [cfg] 500/500 avg_segments_per_site=28.00 elapsed_s=39.79
+[job_done] L=32 ratio=1.09 U=0.326104 +/- 0.0180673 elapsed_s=40
+[job] L=32 (5/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=29.62 elapsed_s=4.09
+  [cfg] 26/500 avg_segments_per_site=28.00 elapsed_s=5.57
+  [cfg] 51/500 avg_segments_per_site=25.50 elapsed_s=7.99
+  [cfg] 76/500 avg_segments_per_site=26.31 elapsed_s=9.86
+  [cfg] 101/500 avg_segments_per_site=29.00 elapsed_s=11.59
+  [cfg] 126/500 avg_segments_per_site=26.88 elapsed_s=13.87
+  [cfg] 151/500 avg_segments_per_site=27.62 elapsed_s=15.57
+  [cfg] 176/500 avg_segments_per_site=25.56 elapsed_s=16.98
+  [cfg] 201/500 avg_segments_per_site=27.62 elapsed_s=19.13
+  [cfg] 226/500 avg_segments_per_site=29.25 elapsed_s=21.00
+  [cfg] 251/500 avg_segments_per_site=26.12 elapsed_s=22.59
+  [cfg] 276/500 avg_segments_per_site=28.75 elapsed_s=24.25
+  [cfg] 301/500 avg_segments_per_site=26.50 elapsed_s=26.48
+  [cfg] 326/500 avg_segments_per_site=27.62 elapsed_s=27.84
+  [cfg] 351/500 avg_segments_per_site=26.62 elapsed_s=29.42
+  [cfg] 376/500 avg_segments_per_site=30.25 elapsed_s=30.92
+  [cfg] 401/500 avg_segments_per_site=26.69 elapsed_s=32.30
+  [cfg] 426/500 avg_segments_per_site=26.12 elapsed_s=33.85
+  [cfg] 451/500 avg_segments_per_site=26.44 elapsed_s=36.09
+  [cfg] 476/500 avg_segments_per_site=25.38 elapsed_s=37.68
+  [cfg] 500/500 avg_segments_per_site=24.44 elapsed_s=39.48
+[job_done] L=32 ratio=1.09 U=0.276124 +/- 0.0223088 elapsed_s=39
+[job] L=32 (6/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.75 elapsed_s=4.10
+  [cfg] 26/500 avg_segments_per_site=25.31 elapsed_s=5.63
+  [cfg] 51/500 avg_segments_per_site=25.44 elapsed_s=7.67
+  [cfg] 76/500 avg_segments_per_site=28.00 elapsed_s=9.73
+  [cfg] 101/500 avg_segments_per_site=27.12 elapsed_s=11.55
+  [cfg] 126/500 avg_segments_per_site=25.88 elapsed_s=13.30
+  [cfg] 151/500 avg_segments_per_site=26.94 elapsed_s=15.22
+  [cfg] 176/500 avg_segments_per_site=28.75 elapsed_s=16.93
+  [cfg] 201/500 avg_segments_per_site=26.38 elapsed_s=18.31
+  [cfg] 226/500 avg_segments_per_site=27.19 elapsed_s=21.03
+  [cfg] 251/500 avg_segments_per_site=28.06 elapsed_s=22.72
+  [cfg] 276/500 avg_segments_per_site=26.44 elapsed_s=24.19
+  [cfg] 301/500 avg_segments_per_site=26.12 elapsed_s=26.16
+  [cfg] 326/500 avg_segments_per_site=26.25 elapsed_s=28.15
+  [cfg] 351/500 avg_segments_per_site=25.94 elapsed_s=29.81
+  [cfg] 376/500 avg_segments_per_site=26.00 elapsed_s=31.48
+  [cfg] 401/500 avg_segments_per_site=22.94 elapsed_s=33.71
+  [cfg] 426/500 avg_segments_per_site=27.88 elapsed_s=35.38
+  [cfg] 451/500 avg_segments_per_site=26.06 elapsed_s=36.92
+  [cfg] 476/500 avg_segments_per_site=26.06 elapsed_s=38.69
+  [cfg] 500/500 avg_segments_per_site=24.62 elapsed_s=40.94
+[job_done] L=32 ratio=1.09 U=0.31243 +/- 0.0210373 elapsed_s=41
+[job] L=32 (7/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.25 elapsed_s=3.28
+  [cfg] 26/500 avg_segments_per_site=26.31 elapsed_s=5.46
+  [cfg] 51/500 avg_segments_per_site=27.94 elapsed_s=7.37
+  [cfg] 76/500 avg_segments_per_site=26.88 elapsed_s=9.07
+  [cfg] 101/500 avg_segments_per_site=27.00 elapsed_s=11.18
+  [cfg] 126/500 avg_segments_per_site=26.38 elapsed_s=13.37
+  [cfg] 151/500 avg_segments_per_site=25.69 elapsed_s=14.69
+  [cfg] 176/500 avg_segments_per_site=27.00 elapsed_s=16.31
+  [cfg] 201/500 avg_segments_per_site=28.50 elapsed_s=18.86
+  [cfg] 226/500 avg_segments_per_site=28.50 elapsed_s=20.33
+  [cfg] 251/500 avg_segments_per_site=26.62 elapsed_s=21.92
+  [cfg] 276/500 avg_segments_per_site=27.12 elapsed_s=23.87
+  [cfg] 301/500 avg_segments_per_site=24.38 elapsed_s=25.80
+  [cfg] 326/500 avg_segments_per_site=27.38 elapsed_s=27.57
+  [cfg] 351/500 avg_segments_per_site=25.19 elapsed_s=29.18
+  [cfg] 376/500 avg_segments_per_site=26.81 elapsed_s=31.52
+  [cfg] 401/500 avg_segments_per_site=26.94 elapsed_s=33.27
+  [cfg] 426/500 avg_segments_per_site=28.25 elapsed_s=34.70
+  [cfg] 451/500 avg_segments_per_site=26.38 elapsed_s=36.27
+  [cfg] 476/500 avg_segments_per_site=29.25 elapsed_s=38.53
+  [cfg] 500/500 avg_segments_per_site=27.12 elapsed_s=40.13
+[job_done] L=32 ratio=1.09 U=0.294286 +/- 0.0232906 elapsed_s=40
+[job] L=32 (8/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.62 elapsed_s=3.29
+  [cfg] 26/500 avg_segments_per_site=25.62 elapsed_s=5.46
+  [cfg] 51/500 avg_segments_per_site=27.81 elapsed_s=7.15
+  [cfg] 76/500 avg_segments_per_site=26.06 elapsed_s=8.95
+  [cfg] 101/500 avg_segments_per_site=27.38 elapsed_s=11.04
+  [cfg] 126/500 avg_segments_per_site=29.12 elapsed_s=12.76
+  [cfg] 151/500 avg_segments_per_site=27.31 elapsed_s=14.34
+  [cfg] 176/500 avg_segments_per_site=27.12 elapsed_s=16.65
+  [cfg] 201/500 avg_segments_per_site=26.88 elapsed_s=18.53
+  [cfg] 226/500 avg_segments_per_site=27.00 elapsed_s=19.89
+  [cfg] 251/500 avg_segments_per_site=26.50 elapsed_s=21.71
+  [cfg] 276/500 avg_segments_per_site=26.88 elapsed_s=23.99
+  [cfg] 301/500 avg_segments_per_site=25.00 elapsed_s=25.42
+  [cfg] 326/500 avg_segments_per_site=26.25 elapsed_s=26.74
+  [cfg] 351/500 avg_segments_per_site=27.25 elapsed_s=28.81
+  [cfg] 376/500 avg_segments_per_site=29.50 elapsed_s=30.76
+  [cfg] 401/500 avg_segments_per_site=28.25 elapsed_s=32.03
+  [cfg] 426/500 avg_segments_per_site=26.06 elapsed_s=33.76
+  [cfg] 451/500 avg_segments_per_site=26.12 elapsed_s=36.08
+  [cfg] 476/500 avg_segments_per_site=25.56 elapsed_s=38.08
+  [cfg] 500/500 avg_segments_per_site=26.94 elapsed_s=39.58
+[job_done] L=32 ratio=1.09 U=0.293008 +/- 0.0184043 elapsed_s=40
+[job] L=32 (9/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.62 elapsed_s=4.69
+  [cfg] 26/500 avg_segments_per_site=26.56 elapsed_s=6.16
+  [cfg] 51/500 avg_segments_per_site=26.75 elapsed_s=7.85
+  [cfg] 76/500 avg_segments_per_site=26.62 elapsed_s=10.13
+  [cfg] 101/500 avg_segments_per_site=28.19 elapsed_s=11.92
+  [cfg] 126/500 avg_segments_per_site=27.06 elapsed_s=14.07
+  [cfg] 151/500 avg_segments_per_site=26.50 elapsed_s=16.63
+  [cfg] 176/500 avg_segments_per_site=26.69 elapsed_s=18.26
+  [cfg] 201/500 avg_segments_per_site=26.94 elapsed_s=19.63
+  [cfg] 226/500 avg_segments_per_site=26.31 elapsed_s=22.09
+  [cfg] 251/500 avg_segments_per_site=28.62 elapsed_s=23.94
+  [cfg] 276/500 avg_segments_per_site=28.12 elapsed_s=25.30
+  [cfg] 301/500 avg_segments_per_site=26.00 elapsed_s=27.58
+  [cfg] 326/500 avg_segments_per_site=25.62 elapsed_s=29.27
+  [cfg] 351/500 avg_segments_per_site=25.38 elapsed_s=30.71
+  [cfg] 376/500 avg_segments_per_site=28.19 elapsed_s=31.88
+  [cfg] 401/500 avg_segments_per_site=25.75 elapsed_s=33.66
+  [cfg] 426/500 avg_segments_per_site=27.12 elapsed_s=35.84
+  [cfg] 451/500 avg_segments_per_site=25.44 elapsed_s=37.56
+  [cfg] 476/500 avg_segments_per_site=27.81 elapsed_s=39.03
+  [cfg] 500/500 avg_segments_per_site=26.31 elapsed_s=41.18
+[job_done] L=32 ratio=1.09 U=0.315599 +/- 0.0177335 elapsed_s=41
+[job] L=32 (10/10) ratio=1.09 Gamma=1.09 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.00 elapsed_s=3.47
+  [cfg] 26/500 avg_segments_per_site=26.19 elapsed_s=5.30
+  [cfg] 51/500 avg_segments_per_site=25.19 elapsed_s=7.43
+  [cfg] 76/500 avg_segments_per_site=28.69 elapsed_s=9.19
+  [cfg] 101/500 avg_segments_per_site=27.69 elapsed_s=10.49
+  [cfg] 126/500 avg_segments_per_site=26.69 elapsed_s=12.76
+  [cfg] 151/500 avg_segments_per_site=28.25 elapsed_s=14.89
+  [cfg] 176/500 avg_segments_per_site=25.94 elapsed_s=16.36
+  [cfg] 201/500 avg_segments_per_site=28.94 elapsed_s=17.65
+  [cfg] 226/500 avg_segments_per_site=29.06 elapsed_s=19.55
+  [cfg] 251/500 avg_segments_per_site=23.94 elapsed_s=21.43
+  [cfg] 276/500 avg_segments_per_site=28.31 elapsed_s=22.71
+  [cfg] 301/500 avg_segments_per_site=26.06 elapsed_s=24.48
+  [cfg] 326/500 avg_segments_per_site=26.38 elapsed_s=27.01
+  [cfg] 351/500 avg_segments_per_site=27.25 elapsed_s=28.69
+  [cfg] 376/500 avg_segments_per_site=28.12 elapsed_s=30.00
+  [cfg] 401/500 avg_segments_per_site=26.25 elapsed_s=32.41
+  [cfg] 426/500 avg_segments_per_site=29.50 elapsed_s=33.96
+  [cfg] 451/500 avg_segments_per_site=25.88 elapsed_s=35.58
+  [cfg] 476/500 avg_segments_per_site=26.81 elapsed_s=37.80
+  [cfg] 500/500 avg_segments_per_site=26.62 elapsed_s=39.69
+[job_done] L=32 ratio=1.09 U=0.312975 +/- 0.0178526 elapsed_s=40
+32,1.0900000000000001,1.0900000000000001,1,0.058579419608831812,0.001563615362839397,0.0079539824394234109,0.00037325051986118464,0.34105115885108073,0.017905294790405694,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.059671586354404144,0.0017284169622196325,0.0085170966869692714,0.00045865873236872515,0.30401432461714123,0.018245540655576386,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.059713654154084937,0.0017718777685271324,0.0084208841424440479,0.00044459720914263358,0.31918994709993515,0.017346150579566271,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.060850627631925877,0.0017984914480838792,0.0086934079980051267,0.00046776260138071312,0.32610422313226273,0.018067294139574815,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.058314334856529856,0.0018155299558374205,0.0083237470894395177,0.00051692585048315266,0.2761237019344126,0.022308834453707974,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.062069196541094128,0.0019864671410593027,0.0091504398623878658,0.00054957348592343932,0.31243011335180076,0.021037273820456486,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.062958693997629975,0.0020414005660707832,0.0095584299643699244,0.0006165427997678537,0.29428573980594525,0.02329064049582398,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.058676779944721105,0.001734849844007394,0.0083112738953873087,0.00046617605334263885,0.29300758974014396,0.01840427886692388,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.057329606963078032,0.0015741178317151001,0.0077855118934670887,0.00038774994266256021,0.31559858369666255,0.017733510992273518,500,5,250
+32,1.0900000000000001,1.0900000000000001,1,0.060126420520755335,0.001754818970347546,0.008582638959922945,0.00044584112260808101,0.31297515416908706,0.017852612545977836,500,5,250
+L,ratio,Gamma,K,m2,m2_err,m4,m4_err,U,U_err,n,sweeps_between,burn_in
+============================================================
+[chain] L=32  BC=1
+[job] L=32 (1/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.12 elapsed_s=3.30
+  [cfg] 26/500 avg_segments_per_site=26.50 elapsed_s=5.68
+  [cfg] 51/500 avg_segments_per_site=24.19 elapsed_s=7.08
+  [cfg] 76/500 avg_segments_per_site=26.81 elapsed_s=8.20
+  [cfg] 101/500 avg_segments_per_site=25.81 elapsed_s=9.65
+  [cfg] 126/500 avg_segments_per_site=24.75 elapsed_s=11.79
+  [cfg] 151/500 avg_segments_per_site=25.62 elapsed_s=13.55
+  [cfg] 176/500 avg_segments_per_site=26.69 elapsed_s=14.96
+  [cfg] 201/500 avg_segments_per_site=25.25 elapsed_s=16.54
+  [cfg] 226/500 avg_segments_per_site=27.94 elapsed_s=18.97
+  [cfg] 251/500 avg_segments_per_site=26.38 elapsed_s=20.60
+  [cfg] 276/500 avg_segments_per_site=26.00 elapsed_s=21.93
+  [cfg] 301/500 avg_segments_per_site=26.75 elapsed_s=23.29
+  [cfg] 326/500 avg_segments_per_site=28.62 elapsed_s=25.63
+  [cfg] 351/500 avg_segments_per_site=29.50 elapsed_s=27.10
+  [cfg] 376/500 avg_segments_per_site=25.50 elapsed_s=28.49
+  [cfg] 401/500 avg_segments_per_site=25.56 elapsed_s=30.36
+  [cfg] 426/500 avg_segments_per_site=26.88 elapsed_s=32.28
+  [cfg] 451/500 avg_segments_per_site=25.56 elapsed_s=33.82
+  [cfg] 476/500 avg_segments_per_site=26.75 elapsed_s=35.19
+  [cfg] 500/500 avg_segments_per_site=27.38 elapsed_s=37.09
+[job_done] L=32 ratio=1.07944 U=0.330875 +/- 0.0202201 elapsed_s=37
+[job] L=32 (2/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.44 elapsed_s=3.67
+  [cfg] 26/500 avg_segments_per_site=25.69 elapsed_s=5.65
+  [cfg] 51/500 avg_segments_per_site=28.88 elapsed_s=7.49
+  [cfg] 76/500 avg_segments_per_site=26.38 elapsed_s=9.10
+  [cfg] 101/500 avg_segments_per_site=28.00 elapsed_s=10.59
+  [cfg] 126/500 avg_segments_per_site=27.06 elapsed_s=12.86
+  [cfg] 151/500 avg_segments_per_site=27.31 elapsed_s=14.73
+  [cfg] 176/500 avg_segments_per_site=26.12 elapsed_s=16.12
+  [cfg] 201/500 avg_segments_per_site=28.44 elapsed_s=18.00
+  [cfg] 226/500 avg_segments_per_site=26.31 elapsed_s=19.92
+  [cfg] 251/500 avg_segments_per_site=26.81 elapsed_s=21.31
+  [cfg] 276/500 avg_segments_per_site=27.69 elapsed_s=22.71
+  [cfg] 301/500 avg_segments_per_site=26.69 elapsed_s=25.15
+  [cfg] 326/500 avg_segments_per_site=28.50 elapsed_s=26.99
+  [cfg] 351/500 avg_segments_per_site=27.38 elapsed_s=28.55
+  [cfg] 376/500 avg_segments_per_site=26.12 elapsed_s=30.43
+  [cfg] 401/500 avg_segments_per_site=28.00 elapsed_s=32.31
+  [cfg] 426/500 avg_segments_per_site=24.69 elapsed_s=33.85
+  [cfg] 451/500 avg_segments_per_site=27.25 elapsed_s=35.28
+  [cfg] 476/500 avg_segments_per_site=26.56 elapsed_s=37.46
+  [cfg] 500/500 avg_segments_per_site=25.00 elapsed_s=39.16
+[job_done] L=32 ratio=1.07944 U=0.346428 +/- 0.0189831 elapsed_s=39
+[job] L=32 (3/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.56 elapsed_s=2.97
+  [cfg] 26/500 avg_segments_per_site=27.19 elapsed_s=5.13
+  [cfg] 51/500 avg_segments_per_site=25.88 elapsed_s=7.05
+  [cfg] 76/500 avg_segments_per_site=24.44 elapsed_s=8.49
+  [cfg] 101/500 avg_segments_per_site=27.06 elapsed_s=10.36
+  [cfg] 126/500 avg_segments_per_site=25.31 elapsed_s=12.61
+  [cfg] 151/500 avg_segments_per_site=25.75 elapsed_s=14.16
+  [cfg] 176/500 avg_segments_per_site=26.44 elapsed_s=15.82
+  [cfg] 201/500 avg_segments_per_site=25.81 elapsed_s=18.04
+  [cfg] 226/500 avg_segments_per_site=26.50 elapsed_s=19.84
+  [cfg] 251/500 avg_segments_per_site=23.62 elapsed_s=21.40
+  [cfg] 276/500 avg_segments_per_site=26.25 elapsed_s=23.10
+  [cfg] 301/500 avg_segments_per_site=27.69 elapsed_s=25.01
+  [cfg] 326/500 avg_segments_per_site=25.88 elapsed_s=26.63
+  [cfg] 351/500 avg_segments_per_site=27.00 elapsed_s=27.82
+  [cfg] 376/500 avg_segments_per_site=26.25 elapsed_s=29.28
+  [cfg] 401/500 avg_segments_per_site=27.19 elapsed_s=31.54
+  [cfg] 426/500 avg_segments_per_site=25.44 elapsed_s=33.28
+  [cfg] 451/500 avg_segments_per_site=23.88 elapsed_s=34.85
+  [cfg] 476/500 avg_segments_per_site=26.06 elapsed_s=36.93
+  [cfg] 500/500 avg_segments_per_site=26.12 elapsed_s=38.75
+[job_done] L=32 ratio=1.07944 U=0.321867 +/- 0.0178604 elapsed_s=39
+[job] L=32 (4/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.62 elapsed_s=2.63
+  [cfg] 26/500 avg_segments_per_site=27.75 elapsed_s=5.05
+  [cfg] 51/500 avg_segments_per_site=28.06 elapsed_s=6.73
+  [cfg] 76/500 avg_segments_per_site=24.88 elapsed_s=8.32
+  [cfg] 101/500 avg_segments_per_site=24.00 elapsed_s=9.61
+  [cfg] 126/500 avg_segments_per_site=28.38 elapsed_s=11.64
+  [cfg] 151/500 avg_segments_per_site=26.75 elapsed_s=13.30
+  [cfg] 176/500 avg_segments_per_site=27.12 elapsed_s=14.44
+  [cfg] 201/500 avg_segments_per_site=28.38 elapsed_s=15.59
+  [cfg] 226/500 avg_segments_per_site=25.56 elapsed_s=17.55
+  [cfg] 251/500 avg_segments_per_site=26.12 elapsed_s=19.57
+  [cfg] 276/500 avg_segments_per_site=27.06 elapsed_s=20.92
+  [cfg] 301/500 avg_segments_per_site=25.62 elapsed_s=22.24
+  [cfg] 326/500 avg_segments_per_site=27.38 elapsed_s=24.47
+  [cfg] 351/500 avg_segments_per_site=26.75 elapsed_s=26.12
+  [cfg] 376/500 avg_segments_per_site=27.50 elapsed_s=27.52
+  [cfg] 401/500 avg_segments_per_site=26.62 elapsed_s=29.67
+  [cfg] 426/500 avg_segments_per_site=27.56 elapsed_s=31.55
+  [cfg] 451/500 avg_segments_per_site=27.06 elapsed_s=32.95
+  [cfg] 476/500 avg_segments_per_site=25.81 elapsed_s=34.18
+  [cfg] 500/500 avg_segments_per_site=27.31 elapsed_s=35.70
+[job_done] L=32 ratio=1.07944 U=0.389692 +/- 0.0169907 elapsed_s=36
+[job] L=32 (5/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.69 elapsed_s=3.85
+  [cfg] 26/500 avg_segments_per_site=27.12 elapsed_s=5.43
+  [cfg] 51/500 avg_segments_per_site=27.00 elapsed_s=7.57
+  [cfg] 76/500 avg_segments_per_site=27.38 elapsed_s=9.52
+  [cfg] 101/500 avg_segments_per_site=26.12 elapsed_s=11.07
+  [cfg] 126/500 avg_segments_per_site=26.06 elapsed_s=12.63
+  [cfg] 151/500 avg_segments_per_site=23.69 elapsed_s=14.93
+  [cfg] 176/500 avg_segments_per_site=25.62 elapsed_s=16.63
+  [cfg] 201/500 avg_segments_per_site=25.81 elapsed_s=18.09
+  [cfg] 226/500 avg_segments_per_site=27.00 elapsed_s=19.96
+  [cfg] 251/500 avg_segments_per_site=24.31 elapsed_s=22.05
+  [cfg] 276/500 avg_segments_per_site=25.62 elapsed_s=23.74
+  [cfg] 301/500 avg_segments_per_site=25.44 elapsed_s=25.39
+  [cfg] 326/500 avg_segments_per_site=25.19 elapsed_s=27.42
+  [cfg] 351/500 avg_segments_per_site=26.00 elapsed_s=28.80
+  [cfg] 376/500 avg_segments_per_site=27.50 elapsed_s=29.87
+  [cfg] 401/500 avg_segments_per_site=24.06 elapsed_s=31.07
+  [cfg] 426/500 avg_segments_per_site=26.62 elapsed_s=33.35
+  [cfg] 451/500 avg_segments_per_site=26.50 elapsed_s=35.07
+  [cfg] 476/500 avg_segments_per_site=27.50 elapsed_s=36.75
+  [cfg] 500/500 avg_segments_per_site=26.12 elapsed_s=38.77
+[job_done] L=32 ratio=1.07944 U=0.32174 +/- 0.025143 elapsed_s=39
+[job] L=32 (6/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.25 elapsed_s=3.69
+  [cfg] 26/500 avg_segments_per_site=25.94 elapsed_s=5.08
+  [cfg] 51/500 avg_segments_per_site=27.00 elapsed_s=7.60
+  [cfg] 76/500 avg_segments_per_site=23.44 elapsed_s=9.23
+  [cfg] 101/500 avg_segments_per_site=27.50 elapsed_s=10.87
+  [cfg] 126/500 avg_segments_per_site=26.19 elapsed_s=13.13
+  [cfg] 151/500 avg_segments_per_site=27.94 elapsed_s=14.92
+  [cfg] 176/500 avg_segments_per_site=24.81 elapsed_s=16.08
+  [cfg] 201/500 avg_segments_per_site=23.12 elapsed_s=17.54
+  [cfg] 226/500 avg_segments_per_site=28.50 elapsed_s=19.51
+  [cfg] 251/500 avg_segments_per_site=24.50 elapsed_s=21.39
+  [cfg] 276/500 avg_segments_per_site=27.38 elapsed_s=23.07
+  [cfg] 301/500 avg_segments_per_site=26.06 elapsed_s=24.58
+  [cfg] 326/500 avg_segments_per_site=26.62 elapsed_s=26.65
+  [cfg] 351/500 avg_segments_per_site=26.75 elapsed_s=28.39
+  [cfg] 376/500 avg_segments_per_site=27.31 elapsed_s=29.81
+  [cfg] 401/500 avg_segments_per_site=26.50 elapsed_s=32.06
+  [cfg] 426/500 avg_segments_per_site=26.25 elapsed_s=34.09
+  [cfg] 451/500 avg_segments_per_site=27.88 elapsed_s=35.14
+  [cfg] 476/500 avg_segments_per_site=26.94 elapsed_s=36.77
+  [cfg] 500/500 avg_segments_per_site=26.88 elapsed_s=39.10
+[job_done] L=32 ratio=1.07944 U=0.357197 +/- 0.0182254 elapsed_s=39
+[job] L=32 (7/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=27.00 elapsed_s=3.42
+  [cfg] 26/500 avg_segments_per_site=22.69 elapsed_s=5.71
+  [cfg] 51/500 avg_segments_per_site=26.50 elapsed_s=7.01
+  [cfg] 76/500 avg_segments_per_site=28.12 elapsed_s=8.56
+  [cfg] 101/500 avg_segments_per_site=26.38 elapsed_s=10.19
+  [cfg] 126/500 avg_segments_per_site=25.94 elapsed_s=12.68
+  [cfg] 151/500 avg_segments_per_site=25.12 elapsed_s=14.10
+  [cfg] 176/500 avg_segments_per_site=26.88 elapsed_s=16.15
+  [cfg] 201/500 avg_segments_per_site=24.50 elapsed_s=17.41
+  [cfg] 226/500 avg_segments_per_site=25.19 elapsed_s=18.50
+  [cfg] 251/500 avg_segments_per_site=24.19 elapsed_s=20.38
+  [cfg] 276/500 avg_segments_per_site=26.38 elapsed_s=22.40
+  [cfg] 301/500 avg_segments_per_site=24.00 elapsed_s=24.20
+  [cfg] 326/500 avg_segments_per_site=25.88 elapsed_s=25.48
+  [cfg] 351/500 avg_segments_per_site=27.06 elapsed_s=27.53
+  [cfg] 376/500 avg_segments_per_site=24.69 elapsed_s=29.60
+  [cfg] 401/500 avg_segments_per_site=25.56 elapsed_s=31.31
+  [cfg] 426/500 avg_segments_per_site=27.50 elapsed_s=33.05
+  [cfg] 451/500 avg_segments_per_site=26.69 elapsed_s=34.76
+  [cfg] 476/500 avg_segments_per_site=27.50 elapsed_s=36.22
+  [cfg] 500/500 avg_segments_per_site=25.19 elapsed_s=37.58
+[job_done] L=32 ratio=1.07944 U=0.331293 +/- 0.0194348 elapsed_s=38
+[job] L=32 (8/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.81 elapsed_s=3.95
+  [cfg] 26/500 avg_segments_per_site=28.44 elapsed_s=5.44
+  [cfg] 51/500 avg_segments_per_site=26.50 elapsed_s=6.88
+  [cfg] 76/500 avg_segments_per_site=27.12 elapsed_s=8.66
+  [cfg] 101/500 avg_segments_per_site=25.88 elapsed_s=10.49
+  [cfg] 126/500 avg_segments_per_site=25.50 elapsed_s=12.02
+  [cfg] 151/500 avg_segments_per_site=28.62 elapsed_s=13.22
+  [cfg] 176/500 avg_segments_per_site=28.62 elapsed_s=15.30
+  [cfg] 201/500 avg_segments_per_site=26.06 elapsed_s=17.16
+  [cfg] 226/500 avg_segments_per_site=25.94 elapsed_s=18.49
+  [cfg] 251/500 avg_segments_per_site=27.25 elapsed_s=19.95
+  [cfg] 276/500 avg_segments_per_site=26.25 elapsed_s=22.13
+  [cfg] 301/500 avg_segments_per_site=26.62 elapsed_s=23.87
+  [cfg] 326/500 avg_segments_per_site=28.75 elapsed_s=25.41
+  [cfg] 351/500 avg_segments_per_site=25.44 elapsed_s=27.06
+  [cfg] 376/500 avg_segments_per_site=26.00 elapsed_s=29.43
+  [cfg] 401/500 avg_segments_per_site=24.88 elapsed_s=31.12
+  [cfg] 426/500 avg_segments_per_site=25.50 elapsed_s=32.61
+  [cfg] 451/500 avg_segments_per_site=26.38 elapsed_s=34.32
+  [cfg] 476/500 avg_segments_per_site=27.81 elapsed_s=36.44
+  [cfg] 500/500 avg_segments_per_site=25.50 elapsed_s=37.99
+[job_done] L=32 ratio=1.07944 U=0.363637 +/- 0.0192611 elapsed_s=38
+[job] L=32 (9/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=23.12 elapsed_s=3.38
+  [cfg] 26/500 avg_segments_per_site=24.88 elapsed_s=5.06
+  [cfg] 51/500 avg_segments_per_site=25.81 elapsed_s=6.37
+  [cfg] 76/500 avg_segments_per_site=28.06 elapsed_s=7.99
+  [cfg] 101/500 avg_segments_per_site=24.56 elapsed_s=10.10
+  [cfg] 126/500 avg_segments_per_site=25.44 elapsed_s=11.99
+  [cfg] 151/500 avg_segments_per_site=27.06 elapsed_s=13.43
+  [cfg] 176/500 avg_segments_per_site=25.81 elapsed_s=15.24
+  [cfg] 201/500 avg_segments_per_site=26.06 elapsed_s=17.37
+  [cfg] 226/500 avg_segments_per_site=23.50 elapsed_s=19.08
+  [cfg] 251/500 avg_segments_per_site=26.62 elapsed_s=20.40
+  [cfg] 276/500 avg_segments_per_site=26.75 elapsed_s=22.59
+  [cfg] 301/500 avg_segments_per_site=25.88 elapsed_s=23.97
+  [cfg] 326/500 avg_segments_per_site=22.94 elapsed_s=25.29
+  [cfg] 351/500 avg_segments_per_site=30.88 elapsed_s=26.58
+  [cfg] 376/500 avg_segments_per_site=29.50 elapsed_s=28.45
+  [cfg] 401/500 avg_segments_per_site=26.06 elapsed_s=30.36
+  [cfg] 426/500 avg_segments_per_site=27.38 elapsed_s=31.80
+  [cfg] 451/500 avg_segments_per_site=24.69 elapsed_s=33.03
+  [cfg] 476/500 avg_segments_per_site=24.81 elapsed_s=35.07
+  [cfg] 500/500 avg_segments_per_site=27.56 elapsed_s=36.84
+[job_done] L=32 ratio=1.07944 U=0.360654 +/- 0.0176375 elapsed_s=37
+[job] L=32 (10/10) ratio=1.07944 Gamma=1.07944 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.75 elapsed_s=3.24
+  [cfg] 26/500 avg_segments_per_site=25.62 elapsed_s=5.53
+  [cfg] 51/500 avg_segments_per_site=24.38 elapsed_s=7.48
+  [cfg] 76/500 avg_segments_per_site=26.69 elapsed_s=8.77
+  [cfg] 101/500 avg_segments_per_site=26.88 elapsed_s=10.61
+  [cfg] 126/500 avg_segments_per_site=25.88 elapsed_s=12.88
+  [cfg] 151/500 avg_segments_per_site=25.12 elapsed_s=14.32
+  [cfg] 176/500 avg_segments_per_site=25.75 elapsed_s=15.75
+  [cfg] 201/500 avg_segments_per_site=26.88 elapsed_s=17.89
+  [cfg] 226/500 avg_segments_per_site=25.38 elapsed_s=19.59
+  [cfg] 251/500 avg_segments_per_site=26.31 elapsed_s=21.11
+  [cfg] 276/500 avg_segments_per_site=25.75 elapsed_s=23.35
+  [cfg] 301/500 avg_segments_per_site=27.38 elapsed_s=25.27
+  [cfg] 326/500 avg_segments_per_site=27.25 elapsed_s=26.51
+  [cfg] 351/500 avg_segments_per_site=25.19 elapsed_s=27.65
+  [cfg] 376/500 avg_segments_per_site=26.44 elapsed_s=29.46
+  [cfg] 401/500 avg_segments_per_site=26.62 elapsed_s=31.39
+  [cfg] 426/500 avg_segments_per_site=24.81 elapsed_s=32.91
+  [cfg] 451/500 avg_segments_per_site=28.50 elapsed_s=34.87
+  [cfg] 476/500 avg_segments_per_site=27.75 elapsed_s=36.70
+  [cfg] 500/500 avg_segments_per_site=24.88 elapsed_s=38.23
+[job_done] L=32 ratio=1.07944 U=0.306487 +/- 0.0221108 elapsed_s=38
+32,1.0794444444,1.0794444444,1,0.07117857494578772,0.0022374255681338151,0.011846497258218654,0.00065765277598044494,0.33087478068294407,0.020220072456687731,500,5,250
+32,1.0794444444,1.0794444444,1,0.069161600125401609,0.0020100390564819306,0.011035827298049718,0.00056576759592146756,0.34642844089802405,0.018983058940987448,500,5,250
+32,1.0794444444,1.0794444444,1,0.069590854244894779,0.0021629936210812899,0.011411140216630717,0.00064068495394956711,0.32186712543623297,0.017860363543971153,500,5,250
+32,1.0794444444,1.0794444444,1,0.070807495785722374,0.0020523894339243725,0.011133508208022856,0.00054706183372033761,0.38969231182386893,0.016990727491791965,500,5,250
+32,1.0794444444,1.0794444444,1,0.067649526804386517,0.0021766357422375142,0.010784533904712396,0.00068691063409156744,0.32173988990724195,0.025142986401314581,500,5,250
+32,1.0794444444,1.0794444444,1,0.068909206388702307,0.0020570613987976561,0.010853158727058677,0.00058459514859700182,0.35719723820248261,0.018225395294982585,500,5,250
+32,1.0794444444,1.0794444444,1,0.068789081385066897,0.0021737969384536967,0.011060508302290536,0.00063441388853084776,0.33129306328468489,0.019434842290947146,500,5,250
+32,1.0794444444,1.0794444444,1,0.073395507239467264,0.0022728257788386663,0.012242955697357734,0.00068049767699432525,0.36363738149922137,0.019261092134386357,500,5,250
+32,1.0794444444,1.0794444444,1,0.067762442890657804,0.0018420240301580356,0.010463181835389388,0.00049119168904621807,0.36065446574873544,0.017637542069581916,500,5,250
+32,1.0794444444,1.0794444444,1,0.068399998853722374,0.002307755084494505,0.011167857613935496,0.00070709088310254048,0.30648723566467162,0.02211080513233267,500,5,250
+L,ratio,Gamma,K,m2,m2_err,m4,m4_err,U,U_err,n,sweeps_between,burn_in
+============================================================
+[chain] L=32  BC=1
+[job] L=32 (1/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=29.19 elapsed_s=3.08
+  [cfg] 26/500 avg_segments_per_site=23.75 elapsed_s=4.75
+  [cfg] 51/500 avg_segments_per_site=24.81 elapsed_s=6.35
+  [cfg] 76/500 avg_segments_per_site=26.75 elapsed_s=8.12
+  [cfg] 101/500 avg_segments_per_site=26.25 elapsed_s=10.19
+  [cfg] 126/500 avg_segments_per_site=26.81 elapsed_s=11.73
+  [cfg] 151/500 avg_segments_per_site=26.44 elapsed_s=13.26
+  [cfg] 176/500 avg_segments_per_site=25.62 elapsed_s=15.00
+  [cfg] 201/500 avg_segments_per_site=24.00 elapsed_s=16.97
+  [cfg] 226/500 avg_segments_per_site=24.38 elapsed_s=18.24
+  [cfg] 251/500 avg_segments_per_site=26.12 elapsed_s=19.65
+  [cfg] 276/500 avg_segments_per_site=24.69 elapsed_s=21.82
+  [cfg] 301/500 avg_segments_per_site=24.38 elapsed_s=23.56
+  [cfg] 326/500 avg_segments_per_site=25.44 elapsed_s=25.03
+  [cfg] 351/500 avg_segments_per_site=26.06 elapsed_s=27.24
+  [cfg] 376/500 avg_segments_per_site=26.81 elapsed_s=29.30
+  [cfg] 401/500 avg_segments_per_site=21.56 elapsed_s=30.65
+  [cfg] 426/500 avg_segments_per_site=26.31 elapsed_s=31.89
+  [cfg] 451/500 avg_segments_per_site=24.69 elapsed_s=33.97
+  [cfg] 476/500 avg_segments_per_site=27.06 elapsed_s=35.49
+  [cfg] 500/500 avg_segments_per_site=25.75 elapsed_s=36.74
+[job_done] L=32 ratio=1.06889 U=0.402577 +/- 0.0188143 elapsed_s=37
+[job] L=32 (2/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=24.38 elapsed_s=4.03
+  [cfg] 26/500 avg_segments_per_site=23.12 elapsed_s=5.62
+  [cfg] 51/500 avg_segments_per_site=25.94 elapsed_s=6.92
+  [cfg] 76/500 avg_segments_per_site=23.44 elapsed_s=9.02
+  [cfg] 101/500 avg_segments_per_site=24.94 elapsed_s=10.85
+  [cfg] 126/500 avg_segments_per_site=27.56 elapsed_s=12.14
+  [cfg] 151/500 avg_segments_per_site=24.94 elapsed_s=13.71
+  [cfg] 176/500 avg_segments_per_site=26.44 elapsed_s=16.12
+  [cfg] 201/500 avg_segments_per_site=25.38 elapsed_s=17.65
+  [cfg] 226/500 avg_segments_per_site=25.88 elapsed_s=18.92
+  [cfg] 251/500 avg_segments_per_site=26.62 elapsed_s=21.03
+  [cfg] 276/500 avg_segments_per_site=26.44 elapsed_s=22.91
+  [cfg] 301/500 avg_segments_per_site=26.94 elapsed_s=24.24
+  [cfg] 326/500 avg_segments_per_site=26.00 elapsed_s=25.66
+  [cfg] 351/500 avg_segments_per_site=24.19 elapsed_s=28.02
+  [cfg] 376/500 avg_segments_per_site=27.19 elapsed_s=29.56
+  [cfg] 401/500 avg_segments_per_site=25.19 elapsed_s=31.02
+  [cfg] 426/500 avg_segments_per_site=26.62 elapsed_s=33.20
+  [cfg] 451/500 avg_segments_per_site=29.00 elapsed_s=34.62
+  [cfg] 476/500 avg_segments_per_site=25.25 elapsed_s=36.04
+  [cfg] 500/500 avg_segments_per_site=24.31 elapsed_s=37.04
+[job_done] L=32 ratio=1.06889 U=0.393585 +/- 0.0179393 elapsed_s=37
+[job] L=32 (3/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=25.56 elapsed_s=3.43
+  [cfg] 26/500 avg_segments_per_site=28.31 elapsed_s=4.75
+  [cfg] 51/500 avg_segments_per_site=25.12 elapsed_s=6.13
+  [cfg] 76/500 avg_segments_per_site=24.56 elapsed_s=8.34
+  [cfg] 101/500 avg_segments_per_site=24.75 elapsed_s=9.69
+  [cfg] 126/500 avg_segments_per_site=26.19 elapsed_s=11.37
+  [cfg] 151/500 avg_segments_per_site=28.00 elapsed_s=12.82
+  [cfg] 176/500 avg_segments_per_site=23.44 elapsed_s=14.92
+  [cfg] 201/500 avg_segments_per_site=28.69 elapsed_s=16.56
+  [cfg] 226/500 avg_segments_per_site=27.69 elapsed_s=17.73
+  [cfg] 251/500 avg_segments_per_site=26.81 elapsed_s=18.94
+  [cfg] 276/500 avg_segments_per_site=24.81 elapsed_s=21.12
+  [cfg] 301/500 avg_segments_per_site=26.88 elapsed_s=22.62
+  [cfg] 326/500 avg_segments_per_site=24.81 elapsed_s=23.92
+  [cfg] 351/500 avg_segments_per_site=26.94 elapsed_s=25.43
+  [cfg] 376/500 avg_segments_per_site=24.88 elapsed_s=27.67
+  [cfg] 401/500 avg_segments_per_site=26.38 elapsed_s=29.09
+  [cfg] 426/500 avg_segments_per_site=25.56 elapsed_s=30.59
+  [cfg] 451/500 avg_segments_per_site=25.44 elapsed_s=31.93
+  [cfg] 476/500 avg_segments_per_site=23.81 elapsed_s=33.95
+  [cfg] 500/500 avg_segments_per_site=26.19 elapsed_s=35.58
+[job_done] L=32 ratio=1.06889 U=0.408534 +/- 0.017966 elapsed_s=36
+[job] L=32 (4/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=28.06 elapsed_s=2.67
+  [cfg] 26/500 avg_segments_per_site=26.62 elapsed_s=4.77
+  [cfg] 51/500 avg_segments_per_site=26.06 elapsed_s=6.49
+  [cfg] 76/500 avg_segments_per_site=25.19 elapsed_s=7.69
+  [cfg] 101/500 avg_segments_per_site=26.88 elapsed_s=9.03
+  [cfg] 126/500 avg_segments_per_site=25.31 elapsed_s=10.95
+  [cfg] 151/500 avg_segments_per_site=25.69 elapsed_s=12.86
+  [cfg] 176/500 avg_segments_per_site=25.69 elapsed_s=14.02
+  [cfg] 201/500 avg_segments_per_site=26.69 elapsed_s=15.38
+  [cfg] 226/500 avg_segments_per_site=24.00 elapsed_s=17.39
+  [cfg] 251/500 avg_segments_per_site=25.62 elapsed_s=18.91
+  [cfg] 276/500 avg_segments_per_site=27.94 elapsed_s=20.31
+  [cfg] 301/500 avg_segments_per_site=27.56 elapsed_s=21.69
+  [cfg] 326/500 avg_segments_per_site=24.75 elapsed_s=24.23
+  [cfg] 351/500 avg_segments_per_site=25.81 elapsed_s=25.65
+  [cfg] 376/500 avg_segments_per_site=25.81 elapsed_s=26.97
+  [cfg] 401/500 avg_segments_per_site=27.31 elapsed_s=28.31
+  [cfg] 426/500 avg_segments_per_site=25.44 elapsed_s=30.79
+  [cfg] 451/500 avg_segments_per_site=26.88 elapsed_s=32.31
+  [cfg] 476/500 avg_segments_per_site=24.19 elapsed_s=33.91
+  [cfg] 500/500 avg_segments_per_site=24.50 elapsed_s=35.65
+[job_done] L=32 ratio=1.06889 U=0.395682 +/- 0.0177877 elapsed_s=36
+[job] L=32 (5/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=26.56 elapsed_s=3.25
+  [cfg] 26/500 avg_segments_per_site=25.88 elapsed_s=4.56
+  [cfg] 51/500 avg_segments_per_site=27.62 elapsed_s=6.54
+  [cfg] 76/500 avg_segments_per_site=26.12 elapsed_s=8.64
+  [cfg] 101/500 avg_segments_per_site=25.19 elapsed_s=9.84
+  [cfg] 126/500 avg_segments_per_site=25.94 elapsed_s=11.12
+  [cfg] 151/500 avg_segments_per_site=25.62 elapsed_s=13.08
+  [cfg] 176/500 avg_segments_per_site=26.88 elapsed_s=14.46
+  [cfg] 201/500 avg_segments_per_site=29.25 elapsed_s=15.71
+  [cfg] 226/500 avg_segments_per_site=27.00 elapsed_s=17.26
+  [cfg] 251/500 avg_segments_per_site=25.94 elapsed_s=19.33
+  [cfg] 276/500 avg_segments_per_site=25.56 elapsed_s=21.00
+  [cfg] 301/500 avg_segments_per_site=26.75 elapsed_s=22.41
+  [cfg] 326/500 avg_segments_per_site=26.38 elapsed_s=24.25
+  [cfg] 351/500 avg_segments_per_site=28.38 elapsed_s=26.29
+  [cfg] 376/500 avg_segments_per_site=24.94 elapsed_s=27.91
+  [cfg] 401/500 avg_segments_per_site=24.56 elapsed_s=29.60
+  [cfg] 426/500 avg_segments_per_site=26.50 elapsed_s=31.76
+  [cfg] 451/500 avg_segments_per_site=26.12 elapsed_s=33.21
+  [cfg] 476/500 avg_segments_per_site=25.56 elapsed_s=34.56
+  [cfg] 500/500 avg_segments_per_site=26.38 elapsed_s=36.14
+[job_done] L=32 ratio=1.06889 U=0.391274 +/- 0.0195119 elapsed_s=36
+[job] L=32 (6/10) ratio=1.06889 Gamma=1.06889 K=1 DeltaT=32 BC=1 burn_in=250 sweeps_between=5 n_configs=500
+  [burn] 1/250 (0.4%)
+  [burn] 51/250 (20.4%)
+  [burn] 101/250 (40.4%)
+  [burn] 151/250 (60.4%)
+  [burn] 201/250 (80.4%)
+  [burn] 250/250 (100.0%)
+  [cfg] 1/500 avg_segments_per_site=23.19 elapsed_s=4.09
+  [cfg] 26/500 avg_segments_per_site=26.19 elapsed_s=5.90
+  [cfg] 51/500 avg_segments_per_site=24.88 elapsed_s=8.15
+  [cfg] 76/500 avg_segments_per_site=26.19 elapsed_s=9.72
+  [cfg] 101/500 avg_segments_per_site=23.19 elapsed_s=11.18
+  [cfg] 126/500 avg_segments_per_site=25.12 elapsed_s=13.54
+  [cfg] 151/500 avg_segments_per_site=25.44 elapsed_s=15.83
+  [cfg] 176/500 avg_segments_per_site=25.31 elapsed_s=17.58
+  [cfg] 201/500 avg_segments_per_site=26.69 elapsed_s=18.46
+  [cfg] 226/500 avg_segments_per_site=25.50 elapsed_s=20.43
+  [cfg] 251/500 avg_segments_per_site=27.25 elapsed_s=22.26

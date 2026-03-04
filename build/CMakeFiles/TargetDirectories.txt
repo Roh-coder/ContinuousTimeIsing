@@ -1,0 +1,3 @@
+/workspaces/ContinuousTimeIsing/build/CMakeFiles/ConTimeIsing.dir
+/workspaces/ContinuousTimeIsing/build/CMakeFiles/edit_cache.dir
+/workspaces/ContinuousTimeIsing/build/CMakeFiles/rebuild_cache.dir

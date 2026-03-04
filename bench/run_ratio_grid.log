@@ -1,0 +1,7 @@
+
+Running L=48 (15 ratios × 1000 configs)
+  Existing: 0 ratios, skipping those
+  [ 1/15] γ=1.111111 running... TIMEOUT
+  [ 2/15] γ=1.096032 running... TIMEOUT
+  [ 3/15] γ=1.080952 running... TIMEOUT
+  [ 4/15] γ=1.065873 running...
